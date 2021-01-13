@@ -46,6 +46,7 @@ jobs:
         python stack-overflow.py
     - name: Copying RSS back to branch
       run: |
+        mkdir -p rss-gen
         cp master/rss-gen/** rss-gen/
         rm -rf master
     - name: Upload new feeds
