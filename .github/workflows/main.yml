@@ -1,0 +1,55 @@
+name: Feeds Automatic Generation
+
+on: 
+  push:
+    branches:
+      - master
+      - dottD
+  schedule:
+    - cron: "0 18 * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Download master branch
+      uses: actions/checkout@v2
+      with:
+        repository: DottD/rss-depot
+        ref: master
+        path: master
+    - name: Copy local content in master folder
+      run: |
+        cp *.json master/
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      working-directory: master
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Creating EPSO RSS Feed
+      working-directory: master
+      run: |
+        python epso.py
+    - name: Creating Stack Overflow RSS Feed
+      working-directory: master
+      run: |
+        python stack-overflow.py
+    - name: Copying RSS back to branch
+      run: |
+        cp master/rss-gen/** rss-gen/
+        rm -rf master
+    - name: Upload new feeds
+      uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_NAME: 'dottD'
