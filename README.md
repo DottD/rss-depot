@@ -1,7 +1,6 @@
 # Useful RSS feed repo
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Python scripts](https://github.com/DottD/rss-depot/workflows/Python%20scripts/badge.svg)
 
 The RSS feeds that you find in `rss-gen` are automatically generated from the Python scripts in the `master` branch.
 
