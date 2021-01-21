@@ -44,6 +44,10 @@ jobs:
       working-directory: master
       run: |
         python stack-overflow.py
+    - name: Creating BCE Vacancies RSS Feed
+      working-directory: master
+      run: |
+        python bce-vacancies.py
     - name: Copying RSS back to branch
       run: |
         mkdir -p rss-gen
