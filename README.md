@@ -8,6 +8,7 @@ The RSS feeds that you find in `rss-gen` are automatically generated from the Py
 
 * [EPSO - Concorsi](https://github.com/DottD/rss-depot/blob/dottD/rss-gen/epso-rss.xml?raw=true)
 * [Stack Overflow](https://github.com/DottD/rss-depot/blob/dottD/rss-gen/stack-overflow-rss.xml?raw=true)
+* [BCE Vacancies](https://github.com/DottD/rss-depot/blob/dottD/rss-gen/bce-vacancies-rss.xml?raw=true)
 
 ## How to customize your script
 
