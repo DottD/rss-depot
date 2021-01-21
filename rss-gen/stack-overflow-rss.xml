@@ -1,57 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Stack Overflow</title><link>https://stackoverflow.com/jobs?id=469377&amp;r=true&amp;tl=python+tensorflow+scikit-learn+pandas+image-processing+computer-vision+natural-language-processing+data-analysis+flutter+swift&amp;td=c+c%2B%2B+php+go&amp;s=45000&amp;c=EUR</link><description>Remote €45,000 Python Tensorflow Scikit-Learn Pandas Image-Processing Computer-Vision Natural-Language-Processi Data-Analysis Flutter Swift Jobs excluding C C++ Php Go  - Stack Overflow</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a</url><title>Stack Overflow</title><link>https://stackoverflow.com/jobs?id=469377&amp;r=true&amp;tl=python+tensorflow+scikit-learn+pandas+image-processing+computer-vision+natural-language-processing+data-analysis+flutter+swift&amp;td=c+c%2B%2B+php+go&amp;s=45000&amp;c=EUR</link></image><language>it</language><lastBuildDate>Thu, 21 Jan 2021 22:41:56 +0100</lastBuildDate><item><title>Software Engineer</title><link>https://stackoverflow.com/jobs/445674/software-engineer-ledger-investing</link><description>Easy apply, $100k–180k, Remote - reactjs, python, postgresql, node.js</description><content:encoded><![CDATA[        <div>
-            <h2>Software Engineer</h2>
-            <p><b>Company: </b><i>Ledger Investing</i></p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Stack Overflow</title><link>https://stackoverflow.com/jobs?id=469377&amp;r=true&amp;tl=python+tensorflow+scikit-learn+pandas+image-processing+computer-vision+natural-language-processing+data-analysis+flutter+swift&amp;td=c+c%2B%2B+php+go&amp;s=45000&amp;c=EUR</link><description>Remote €45,000 Python Tensorflow Scikit-Learn Pandas Image-Processing Computer-Vision Natural-Language-Processi Data-Analysis Flutter Swift Jobs excluding C C++ Php Go  - Stack Overflow</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a</url><title>Stack Overflow</title><link>https://stackoverflow.com/jobs?id=469377&amp;r=true&amp;tl=python+tensorflow+scikit-learn+pandas+image-processing+computer-vision+natural-language-processing+data-analysis+flutter+swift&amp;td=c+c%2B%2B+php+go&amp;s=45000&amp;c=EUR</link></image><language>it</language><lastBuildDate>Thu, 21 Jan 2021 22:51:15 +0100</lastBuildDate><item><title>Senior Backend Engineer</title><link>https://stackoverflow.com/jobs/469150/senior-backend-engineer-find-your-info-corp</link><description>Easy apply, $50k–150k, Equity, Remote - python, aws-lambda, elasticsearch, graphql, flask</description><content:encoded><![CDATA[        <div>
+            <h2>Senior Backend Engineer</h2>
+            <p><b>Company: </b><i>Find Your Info, Corp</i></p>
             <p><b>Location: </b><i>No office location</i></p>
-            <p><b>Technologies: </b><i>reactjs, python, postgresql, node.js</i></p>
-            <p><b>Publication Date: </b><i>7d ago</i></p>
-            <p><b>Other features: </b><i>Easy apply, $100k–180k, Remote</i></p>
+            <p><b>Technologies: </b><i>python, aws-lambda, elasticsearch, graphql, flask</i></p>
+            <p><b>Publication Date: </b><i>13d ago</i></p>
+            <p><b>Other features: </b><i>Easy apply, $50k–150k, Equity, Remote</i></p>
             <br><hr><br>
             <h4>Description</h4>
             <h2>About this job</h2>
-<p><span>Compensation: <strong>$100k - 180k</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Junior, Mid-Level, Senior</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>reactjs, python, postgresql, node.js</p> <br/><br/><h2>Job description</h2> <p><strong><strong>At Ledger, you will get to:</strong></strong></p>
+<p><span>Compensation: <strong>$50k - 150k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior</strong></span><br/><span>Role: <strong>Backend Developer</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, aws-lambda, elasticsearch, graphql, flask</p> <br/><br/><h2>Job description</h2> <p><strong>Job Overview</strong> <br><br>As a Senior Backend Engineer, you will own a key part of FYI&rsquo;s infrastructure. Through building integrations with cloud services such as G-Suite, Dropbox, Notion, and many more, you&rsquo;ll help FYI make sure the product delivers on its value proposition: finding the information people need at work, right when they need it. <strong><br><br>What You&rsquo;ll Do:</strong></p>
 <ul>
-<li>Design, build and maintain UI, APIs, services, and systems across Ledger&rsquo;s products</li>
-<li>Debug production issues across services and multiple levels of the stack</li>
-<li>Work with product designers and engineers across the company to understand users and address their needs</li>
-<li>Improve engineering standards, tooling, and processes</li>
-<li>Assist with technical on specific client projects when needed</li>
+<li>Architecture design, API design, data modeling.</li>
+<li>Analyze cloud products and API documentation to design and build integrations&nbsp;</li>
+<li>Data processing, search indexing, API layer.</li>
+<li>Code standards, code reviews, technical planning/research, testing/QA.</li>
+<li>Investigate and resolve bugs/customer issues.</li>
+<li>Assist in scoping, estimating, and planning of projects.</li>
 </ul>
-<p><strong><strong>You will be effective if you have:</strong></strong></p>
+<p><strong>Who We&rsquo;re Looking For</strong></p>
 <ul>
-<li>Enjoy and have experience building web applications</li>
-<li>Think about systems and services and write high quality code for full-stack applications.</li>
-<li>Experience with a few of the following: React, Node, Python, Postgres, Docker, Git.</li>
-<li>Thrive in a collaborative environment involving different stakeholders and subject matter experts</li>
-</ul>
-<p><strong><strong>Nice-to have:</strong></strong></p>
-<ul>
-<li>DevOps, CI/CD experience</li>
-<li>AWS or Google Cloud experience</li>
-<li>Collaboration tool experience (like JIRA)</li>
-<li>Data wrangling/cleaning experience (Pandas, Jupyter Notebook)</li>
-<li>Various database admin experience</li>
-</ul>
-<p><strong>Our process:</strong></p>
-<ol>
-<li>We will review you resume or LinkedIn profile and GitHub or live app(s) if available</li>
-<li>We will schedule an initial phone or video call for 30min max to discuss your experience and expectations</li>
-<li>We will introduce you to talk to an engineer at Ledger</li>
-<li>We will evaluate your skills with a small code project intended to take maximum 3h</li>
-<li>We will have follow-on interviews with 1 or 2 members of Ledger</li>
-<li>We make an offer</li>
-</ol>
-<p><strong><strong>Benefits:</strong></strong></p>
-<ul>
-<li>Generous Salary and possible Equity compensation</li>
-<li>Work from anywhere - Fully remote</li>
-<li>401k</li>
-<li>Healthcare Insurance premium participation</li>
-<li>Gym membership</li>
-<li>$5000 paid by Ledger towards your dream desk setup!</li>
+<li>You should know AWS, including:&nbsp; API Gateway, CloudFront, CodeBuild, DynamoDB, Elasticache, Fargate, Kinesis, Lamba, RDS, S3.</li>
+<li>You&rsquo;ve got 5 years of experience with: Elasticsearch, Flask, GraphQL,&nbsp; Python, PostgreSQL, SQL, Redis, Serverless.</li>
+<li>You have high accountability and ownership of your work.</li>
+<li>You have a bias towards action. You love to move fast, are self-motivated, and a life-long learner.</li>
+<li>You care about working on fast-growing products while iterating and sweating the details.</li>
+<li>You&rsquo;re willing to do whatever it takes, even if this means working outside of your role (backend help frontend, frontend, handle customer support, etc).</li>
+<li>You&rsquo;re able to effectively balance speed/quality/tech debt and make engineering decisions that enable speed and quality results.</li>
+<li>You&rsquo;re a product thinker who cares about the customer.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/445674/software-engineer-ledger-investing</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Experienced Python Backend Engineer for growing start up!</title><link>https://stackoverflow.com/jobs/474459/experienced-python-backend-engineer-for-growing-this-land-inc-dba-sunday</link><description>$140k–160k, Equity, Remote - django, python, api, product</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469150/senior-backend-engineer-find-your-info-corp</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Experienced Python Backend Engineer for growing start up!</title><link>https://stackoverflow.com/jobs/474459/experienced-python-backend-engineer-for-growing-this-land-inc-dba-sunday</link><description>$140k–160k, Equity, Remote - django, python, api, product</description><content:encoded><![CDATA[        <div>
             <h2>Experienced Python Backend Engineer for growing start up!</h2>
             <p><b>Company: </b><i>This Land Inc dba Sunday</i></p>
             <p><b>Location: </b><i>Boulder, CO</i></p>
@@ -104,7 +83,7 @@
 </li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/474459/experienced-python-backend-engineer-for-growing-this-land-inc-dba-sunday</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>React Software Developer</title><link>https://stackoverflow.com/jobs/469377/react-software-developer-cluby</link><description>Easy apply, €45k–65k, Equity, Remote - reactjs, react-native, python, javascript, postgresql</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/474459/experienced-python-backend-engineer-for-growing-this-land-inc-dba-sunday</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>React Software Developer</title><link>https://stackoverflow.com/jobs/469377/react-software-developer-cluby</link><description>Easy apply, €45k–65k, Equity, Remote - reactjs, react-native, python, javascript, postgresql</description><content:encoded><![CDATA[        <div>
             <h2>React Software Developer</h2>
             <p><b>Company: </b><i>Cluby</i></p>
             <p><b>Location: </b><i>Helsinki, Finland</i></p>
@@ -148,7 +127,7 @@
 <li>Suitable candidate to be able to start immediately</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469377/react-software-developer-cluby</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Backend Developer</title><link>https://stackoverflow.com/jobs/456557/backend-developer-macabacus</link><description>Easy apply, $80k–140k, Remote - python-3.x, python, django, api, flask</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469377/react-software-developer-cluby</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Backend Developer</title><link>https://stackoverflow.com/jobs/456557/backend-developer-macabacus</link><description>Easy apply, $80k–140k, Remote - python-3.x, python, django, api, flask</description><content:encoded><![CDATA[        <div>
             <h2>Backend Developer</h2>
             <p><b>Company: </b><i>Macabacus</i></p>
             <p><b>Location: </b><i>New York, NY</i></p>
@@ -162,7 +141,7 @@
 <p>You will design, build, and maintain the logic and data structures behind our newest products, designing easy-to-use APIs and tools that will be used by other developers. In addition, you will seek to continually improve code quality through testing and continuous integration. Having experience with Python and Django is preferred, but experience with a mainstream language and framework is required. Experience with RESTful architecture, and with RDBMS and/or NoSQL databases is required.&nbsp;</p>
 <p>Salary and job title will be commensurate with experience in the technologies above.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/456557/backend-developer-macabacus</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full Stack Developer</title><link>https://stackoverflow.com/jobs/463551/full-stack-developer-opstalent</link><description>Easy apply, zł156k–216k, Remote - python, django, vue.js, angular</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/456557/backend-developer-macabacus</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full Stack Developer</title><link>https://stackoverflow.com/jobs/463551/full-stack-developer-opstalent</link><description>Easy apply, zł156k–216k, Remote - python, django, vue.js, angular</description><content:encoded><![CDATA[        <div>
             <h2>Full Stack Developer</h2>
             <p><b>Company: </b><i>OpsTalent</i></p>
             <p><b>Location: </b><i>Wrocław, Poland</i></p>
@@ -207,7 +186,7 @@
 <li>Private medical healthcare and Multisport cards to help you stay fit</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463551/full-stack-developer-opstalent</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Backend Developer interested in collaborative hardware development</title><link>https://stackoverflow.com/jobs/389737/senior-backend-developer-interested-in-wikifactory</link><description>Easy apply, €50k–70k, Remote - python, flask-sqlalchemy, postgresql, amazon-web-services, ansible</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463551/full-stack-developer-opstalent</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Backend Developer interested in collaborative hardware development</title><link>https://stackoverflow.com/jobs/389737/senior-backend-developer-interested-in-wikifactory</link><description>Easy apply, €50k–70k, Remote - python, flask-sqlalchemy, postgresql, amazon-web-services, ansible</description><content:encoded><![CDATA[        <div>
             <h2>Senior Backend Developer interested in collaborative hardware development</h2>
             <p><b>Company: </b><i>Wikifactory</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -245,7 +224,7 @@
 <li>Security best practices for web and mobile</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/389737/senior-backend-developer-interested-in-wikifactory</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full Stack Developer</title><link>https://stackoverflow.com/jobs/488091/full-stack-developer-skyword-trackmaven</link><description>Easy apply, $80k–120k, Equity, Remote - django, reactjs, python</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/389737/senior-backend-developer-interested-in-wikifactory</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full Stack Developer</title><link>https://stackoverflow.com/jobs/488091/full-stack-developer-skyword-trackmaven</link><description>Easy apply, $80k–120k, Equity, Remote - django, reactjs, python</description><content:encoded><![CDATA[        <div>
             <h2>Full Stack Developer</h2>
             <p><b>Company: </b><i>Skyword/TrackMaven</i></p>
             <p><b>Location: </b><i>Boston, MA</i></p>
@@ -294,7 +273,7 @@
 <p><em>Many things can hold us back from applying to a job posting. The truth is, there's no such thing as the &ldquo;perfect&rdquo; candidate. Skyword is building a diverse, equitable and inclusive organization, so however you identify and whatever background you bring with you, will only complement the team we already have in place.&nbsp; At Skyword every team member can grow and develop. So, please apply if this role inspires you, and would make you want to bring your best to work every day.&nbsp; We&rsquo;ll bring the rest to make this a memorable experience!</em></p>
 <p><a href="https://skyword.applytojob.com/apply/8OscvSibSE/Full-Stack-Developer?source=Stack+Overflow" rel="nofollow">Apply Today</a></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/488091/full-stack-developer-skyword-trackmaven</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full-Stack Software Engineer</title><link>https://stackoverflow.com/jobs/371127/full-stack-software-engineer-strata-oncology</link><description>Easy apply, $90k–130k, Remote, Paid relocation - reactjs, python, sql, amazon-web-services, docker</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/488091/full-stack-developer-skyword-trackmaven</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full-Stack Software Engineer</title><link>https://stackoverflow.com/jobs/371127/full-stack-software-engineer-strata-oncology</link><description>Easy apply, $90k–130k, Remote, Paid relocation - reactjs, python, sql, amazon-web-services, docker</description><content:encoded><![CDATA[        <div>
             <h2>Full-Stack Software Engineer</h2>
             <p><b>Company: </b><i>Strata Oncology</i></p>
             <p><b>Location: </b><i>Ann Arbor, MI</i></p>
@@ -341,7 +320,59 @@
 <p>Strata Oncology is an Equal Opportunity Employer.</p>
 <p>Learn more&nbsp;at <a href="https://www.strataoncology.com/" rel="nofollow">https://www.strataoncology.com/</a>!</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/371127/full-stack-software-engineer-strata-oncology</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Full Stack Engineer (REMOTE)</title><link>https://stackoverflow.com/jobs/406197/senior-full-stack-engineer-remote-sector-labs</link><description>Easy apply, €61k–90k, Remote - reactjs, django, python, node.js, angularjs</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/371127/full-stack-software-engineer-strata-oncology</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Engineer</title><link>https://stackoverflow.com/jobs/445674/software-engineer-ledger-investing</link><description>Easy apply, $100k–180k, Remote - reactjs, python, postgresql, node.js</description><content:encoded><![CDATA[        <div>
+            <h2>Software Engineer</h2>
+            <p><b>Company: </b><i>Ledger Investing</i></p>
+            <p><b>Location: </b><i>No office location</i></p>
+            <p><b>Technologies: </b><i>reactjs, python, postgresql, node.js</i></p>
+            <p><b>Publication Date: </b><i>7d ago</i></p>
+            <p><b>Other features: </b><i>Easy apply, $100k–180k, Remote</i></p>
+            <br><hr><br>
+            <h4>Description</h4>
+            <h2>About this job</h2>
+<p><span>Compensation: <strong>$100k - 180k</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Junior, Mid-Level, Senior</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>reactjs, python, postgresql, node.js</p> <br/><br/><h2>Job description</h2> <p><strong><strong>At Ledger, you will get to:</strong></strong></p>
+<ul>
+<li>Design, build and maintain UI, APIs, services, and systems across Ledger&rsquo;s products</li>
+<li>Debug production issues across services and multiple levels of the stack</li>
+<li>Work with product designers and engineers across the company to understand users and address their needs</li>
+<li>Improve engineering standards, tooling, and processes</li>
+<li>Assist with technical on specific client projects when needed</li>
+</ul>
+<p><strong><strong>You will be effective if you have:</strong></strong></p>
+<ul>
+<li>Enjoy and have experience building web applications</li>
+<li>Think about systems and services and write high quality code for full-stack applications.</li>
+<li>Experience with a few of the following: React, Node, Python, Postgres, Docker, Git.</li>
+<li>Thrive in a collaborative environment involving different stakeholders and subject matter experts</li>
+</ul>
+<p><strong><strong>Nice-to have:</strong></strong></p>
+<ul>
+<li>DevOps, CI/CD experience</li>
+<li>AWS or Google Cloud experience</li>
+<li>Collaboration tool experience (like JIRA)</li>
+<li>Data wrangling/cleaning experience (Pandas, Jupyter Notebook)</li>
+<li>Various database admin experience</li>
+</ul>
+<p><strong>Our process:</strong></p>
+<ol>
+<li>We will review you resume or LinkedIn profile and GitHub or live app(s) if available</li>
+<li>We will schedule an initial phone or video call for 30min max to discuss your experience and expectations</li>
+<li>We will introduce you to talk to an engineer at Ledger</li>
+<li>We will evaluate your skills with a small code project intended to take maximum 3h</li>
+<li>We will have follow-on interviews with 1 or 2 members of Ledger</li>
+<li>We make an offer</li>
+</ol>
+<p><strong><strong>Benefits:</strong></strong></p>
+<ul>
+<li>Generous Salary and possible Equity compensation</li>
+<li>Work from anywhere - Fully remote</li>
+<li>401k</li>
+<li>Healthcare Insurance premium participation</li>
+<li>Gym membership</li>
+<li>$5000 paid by Ledger towards your dream desk setup!</li>
+</ul> <br/><br/>
+        </div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/445674/software-engineer-ledger-investing</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Full Stack Engineer (REMOTE)</title><link>https://stackoverflow.com/jobs/406197/senior-full-stack-engineer-remote-sector-labs</link><description>Easy apply, €61k–90k, Remote - reactjs, django, python, node.js, angularjs</description><content:encoded><![CDATA[        <div>
             <h2>Senior Full Stack Engineer (REMOTE)</h2>
             <p><b>Company: </b><i>Sector Labs</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -384,7 +415,7 @@
 <p><strong>Are you decided and ready to apply?</strong></p>
 <p>Send us an email at <a href="mailto:jobs@sectorlabs.ro">jobs@sectorlabs.ro</a> with your CV.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/406197/senior-full-stack-engineer-remote-sector-labs</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Lead Fullstack Developer</title><link>https://stackoverflow.com/jobs/474160/lead-fullstack-developer-we-got-pop-ltd</link><description>Easy apply, High response rate, £70k–95k, Remote - python, javascript, postgresql, react, amazon-web-services</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/406197/senior-full-stack-engineer-remote-sector-labs</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Lead Fullstack Developer</title><link>https://stackoverflow.com/jobs/474160/lead-fullstack-developer-we-got-pop-ltd</link><description>Easy apply, High response rate, £70k–95k, Remote - python, javascript, postgresql, react, amazon-web-services</description><content:encoded><![CDATA[        <div>
             <h2>Lead Fullstack Developer</h2>
             <p><b>Company: </b><i>We Got POP Ltd</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -427,7 +458,7 @@
 <li>Our team Dev.to blog: <a href="https://dev.to/wegotpop" rel="nofollow" target="_blank">https://dev.to/wegotpop</a></li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/474160/lead-fullstack-developer-we-got-pop-ltd</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Software Development Engineer, Platform API</title><link>https://stackoverflow.com/jobs/469142/senior-software-development-engineer-platform-api-recharge-payments</link><description>$140k–150k, Equity, Remote - python, api, rest, flask, google-cloud-platform</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/474160/lead-fullstack-developer-we-got-pop-ltd</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Software Development Engineer, Platform API</title><link>https://stackoverflow.com/jobs/469142/senior-software-development-engineer-platform-api-recharge-payments</link><description>$140k–150k, Equity, Remote - python, api, rest, flask, google-cloud-platform</description><content:encoded><![CDATA[        <div>
             <h2>Senior Software Development Engineer, Platform API</h2>
             <p><b>Company: </b><i>ReCharge Payments</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -466,7 +497,7 @@
 <li>Bachelor&rsquo;s degree or equivalent experience desired</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469142/senior-software-development-engineer-platform-api-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior ML Engineer</title><link>https://stackoverflow.com/jobs/457415/senior-ml-engineer-aptedgeio</link><description>Easy apply, $120k–150k, Equity, Remote - saas, python, google-kubernetes-engine, postgresql</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469142/senior-software-development-engineer-platform-api-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior ML Engineer</title><link>https://stackoverflow.com/jobs/457415/senior-ml-engineer-aptedgeio</link><description>Easy apply, $120k–150k, Equity, Remote - saas, python, google-kubernetes-engine, postgresql</description><content:encoded><![CDATA[        <div>
             <h2>Senior ML Engineer</h2>
             <p><b>Company: </b><i>AptEdge.io</i></p>
             <p><b>Location: </b><i>San Mateo, CA</i></p>
@@ -520,7 +551,7 @@
 <li><span>Commuter benefits</span></li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/457415/senior-ml-engineer-aptedgeio</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full Stack Software Engineer</title><link>https://stackoverflow.com/jobs/481760/full-stack-software-engineer-resoluteai</link><description>$125k–145k, Equity, Remote - python, reactjs, aws, docker, elasticsearch</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/457415/senior-ml-engineer-aptedgeio</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full Stack Software Engineer</title><link>https://stackoverflow.com/jobs/481760/full-stack-software-engineer-resoluteai</link><description>$125k–145k, Equity, Remote - python, reactjs, aws, docker, elasticsearch</description><content:encoded><![CDATA[        <div>
             <h2>Full Stack Software Engineer</h2>
             <p><b>Company: </b><i>ResoluteAI</i></p>
             <p><b>Location: </b><i>New York, NY</i></p>
@@ -568,7 +599,7 @@
 <li>Flexible Work Environment</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481760/full-stack-software-engineer-resoluteai</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Software Engineer (US Timezones Only, Remote, Full-time/Benefits)</title><link>https://stackoverflow.com/jobs/439960/software-engineer-us-timezones-only-remote-gaia-gps</link><description>$120k–150k, Equity, Remote - python, ios, android, swift, kotlin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481760/full-stack-software-engineer-resoluteai</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Engineer (US Timezones Only, Remote, Full-time/Benefits)</title><link>https://stackoverflow.com/jobs/439960/software-engineer-us-timezones-only-remote-gaia-gps</link><description>$120k–150k, Equity, Remote - python, ios, android, swift, kotlin</description><content:encoded><![CDATA[        <div>
             <h2>Software Engineer (US Timezones Only, Remote, Full-time/Benefits)</h2>
             <p><b>Company: </b><i>Gaia GPS</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -598,7 +629,7 @@
 <li>Experience in our stack is a plus. Our front-end includes Swift/Objective-C, Android Kotlin/Java, and React. Our back-end includes Postgres/PostGIS, AWS, Django/Python, node.js, and Docker. We have extensive map building infrastructure based on OpenStreetMap and other open data and tools.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/439960/software-engineer-us-timezones-only-remote-gaia-gps</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>US-Based Expert Django Developer</title><link>https://stackoverflow.com/jobs/481480/us-based-expert-django-developer-appevolve</link><description>Easy apply, $96k–120k, Remote - python, django, amazon-web-services, docker, django-rest-framework</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/439960/software-engineer-us-timezones-only-remote-gaia-gps</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>US-Based Expert Django Developer</title><link>https://stackoverflow.com/jobs/481480/us-based-expert-django-developer-appevolve</link><description>Easy apply, $96k–120k, Remote - python, django, amazon-web-services, docker, django-rest-framework</description><content:encoded><![CDATA[        <div>
             <h2>US-Based Expert Django Developer</h2>
             <p><b>Company: </b><i>AppEvolve</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -612,7 +643,7 @@
 <p><strong>Note:</strong> This is a remote, freelance position. Due to our client's requirements for this project, the developer <strong>must</strong> be physically based in the United States.&nbsp;</p>
 <p><br>About Us<br>We're a US-based software agency, with an excellent reputation on Upwork, that solves our clients' toughest challenges by providing unmatched services in custom software development, consulting and support. We partner with medium to large businesses, including Fortune 500 companies, to deliver transformational outcomes for a demanding new digital world.&nbsp;<br><br>Who We Are Looking For:&nbsp;<br>If you're a Django developer (with at least 5 years of experience) who loves to stay focused on coding without worrying about collecting requirements, dealing with clients directly, and working with a professional, organized team...get in touch! We seek a long-term partnership with someone who can work well with a distributed team, has great work ethic, open communication, and isn't afraid to contribute input if they see a better way to do things. And we'll do our part by providing you with exciting, challenging applications.&nbsp;<br><br>What We Provide You With<br>We help and support you by providing the following for any project you work on:<br>Documentation<br>Full Requirements<br>Wireframes<br>Front-End Team<br>Back-End Lead<br><br>Tools We Use<br>Atlassian (Jira, Bitbucket &amp; Confluence)<br>Slack<br>AWS<br><br>Interview Process<br>Upon receipt of your resume, we will follow-up to schedule a technical interview. The process would be the following:<br>Video Chat using Zoom (we will send an invitation link)<br>Brief Interview Questions<br>Screen share so you can walk us through recent projects and your development processes<br>Last, we will follow-up by sending a quick online coding test.<br><br>If you feel this would be a great opportunity for you, please take the time to write us a thoughtful reply. Please put the words "serious applicant" at the beginning of your reply, so we know you read this entire job post thoroughly.&nbsp;<br><br>Thank you and looking forward to hearing from you!</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481480/us-based-expert-django-developer-appevolve</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Software Development Manager, Integrations</title><link>https://stackoverflow.com/jobs/463332/software-development-manager-integrations-recharge-payments</link><description>$150k–160k, Equity, Remote - python, agile, flask-restful, api, google-cloud-platform</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481480/us-based-expert-django-developer-appevolve</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Development Manager, Integrations</title><link>https://stackoverflow.com/jobs/463332/software-development-manager-integrations-recharge-payments</link><description>$150k–160k, Equity, Remote - python, agile, flask-restful, api, google-cloud-platform</description><content:encoded><![CDATA[        <div>
             <h2>Software Development Manager, Integrations</h2>
             <p><b>Company: </b><i>ReCharge Payments</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -655,7 +686,7 @@
 <li>Bachelor&rsquo;s degree or equivalent experience desired</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463332/software-development-manager-integrations-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Software Development Manager, Platform API</title><link>https://stackoverflow.com/jobs/463331/software-development-manager-platform-api-recharge-payments</link><description>$150k–160k, Equity, Remote - python, agile, flask-restful, api, google-cloud-platform</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463332/software-development-manager-integrations-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Development Manager, Platform API</title><link>https://stackoverflow.com/jobs/463331/software-development-manager-platform-api-recharge-payments</link><description>$150k–160k, Equity, Remote - python, agile, flask-restful, api, google-cloud-platform</description><content:encoded><![CDATA[        <div>
             <h2>Software Development Manager, Platform API</h2>
             <p><b>Company: </b><i>ReCharge Payments</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -696,7 +727,7 @@
 <li>Bachelor&rsquo;s degree or equivalent experience desired</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463331/software-development-manager-platform-api-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Python Developer</title><link>https://stackoverflow.com/jobs/473789/python-developer-threatconnect-inc</link><description>$90k–100k, Remote - python, postman, pytest, api, rest</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/463331/software-development-manager-platform-api-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Python Developer</title><link>https://stackoverflow.com/jobs/473789/python-developer-threatconnect-inc</link><description>$90k–100k, Remote - python, postman, pytest, api, rest</description><content:encoded><![CDATA[        <div>
             <h2>Python Developer</h2>
             <p><b>Company: </b><i>ThreatConnect, Inc.</i></p>
             <p><b>Location: </b><i>Arlington, VA</i></p>
@@ -795,7 +826,7 @@
 <li>Paid Bereavement Leave</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/473789/python-developer-threatconnect-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Software Engineer</title><link>https://stackoverflow.com/jobs/485950/software-engineer-skylight</link><description>$145k–170k, Remote - reactjs, python, ruby-on-rails</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/473789/python-developer-threatconnect-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Engineer</title><link>https://stackoverflow.com/jobs/485950/software-engineer-skylight</link><description>$145k–170k, Remote - reactjs, python, ruby-on-rails</description><content:encoded><![CDATA[        <div>
             <h2>Software Engineer</h2>
             <p><b>Company: </b><i>Skylight</i></p>
             <p><b>Location: </b><i>Sarasota, FL</i></p>
@@ -807,7 +838,7 @@
             <h2>About this job</h2>
 <p><span>Compensation: <strong>$145k - 170k</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>reactjs, python, ruby-on-rails</p> <br/><br/><h2>Job description</h2> <p>Skylight (<a href="https://workable.com/nr?l=https%3A%2F%2Fskylight.digital%2F" rel="nofollow">https://skylight.digital/</a>) is at the forefront of a civic movement to reinvent how the government serves the public in a digital world.</p> <p>We’re looking for a Software Engineer to join our talented team of technologists in driving this movement forward.</p> <p>You’ll be a key part of our small, but rapidly growing team, which consists of former Presidential Innovation Fellows, founders of 18F, and members of the U.S. Digital Service.</p> <p>We work in small, fast, agile teams to create exceptional customer experiences and enduring solutions out of the government’s most complex design and technology challenges. The work is challenging, but highly rewarding.</p><br><p><strong>Benefits</strong></p><br><p>We focus on supporting you in a variety of ways:</p><ul> <li>Competitive salary</li> <li>An economic stake in the company's success with stock options</li> <li>Performance rewards and referral bonuses</li> <li>Medical insurance, dental insurance, vision insurance, short-term and long-term disability insurance, life insurance, dependent care FSA, healthcare FSA, and health savings account</li> <li>Dollar-for-dollar 401(k) match up to 10% of your salary</li> <li>Flexible paid-time-off policy (minimum of 29 days), which covers any type of leave (such as holiday, sick, and vacation) that you need or want to take</li> <li>Minimum of 9 weeks paid time off for all eligible new birth, adoption, or foster parents</li> <li>Annual $2,000 allowance for professional development</li> <li>Annual $750 allowance for tech-related purchases</li> <li>Access up to $1,000 before payday to cover emergency expenses</li> <li>Incentives for living in a HUBZone area (https://maps.certify.sba.gov/hubzone/map), including relocation assistance and a monthly stipend to help offset the cost of rent or mortgage</li> <li>Dollar-for-dollar charity donation matching, up to $500 per year</li> <li>Remote-friendly work environment</li> <li>An environment that empowers you to unleash your superpowers for public good</li> </ul><p>We participate in E-Verify and upon hire, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.</p><p>We're an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, sex, sexual orientation, gender identity or expression, religion, age, pregnancy, disability, work-related injury, covered veteran status, political ideology, marital status, or any other factor that the law protects from employment discrimination.</p> <br/><br/><h2>Skills & requirements</h2> <p><p><strong>What you’ll do:</strong></p> <ul> <li>Engineer a software product as part of a cross-functional team, which includes user experience researchers and designers, product managers, engineers, and other functional specialists</li> <li>Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing</li> <li>Select and use the right tools, frameworks, languages, and technologies for the job, with a preference for open-source solutions</li> <li>Analyze systems to identify technical debt, instability, unreliability, and other opportunities for improvement, and design, document, and communicate solutions</li> <li>Represent Skylight's culture of delivery when interacting with government stakeholders and other contractors</li> </ul> <p><strong>What we’re looking for:</strong></p> <ul> <li>In-depth knowledge of computer science</li> <li>Experience engineering scalable, high-performing web applications using various standards, languages, frameworks, techniques, and libraries such as HTML5, CSS3/Sass, Responsive Design, WCAG, JavaScript, React or Angular, and Ruby/Rails or Python/Django</li> <li>Expertise in relational databases such as PostgreSQL</li> <li>Expertise creating and consuming APIs</li> <li>Expertise using version control systems such as GitHub</li> <li>Expertise setting up and using CI/CD tools such as Jenkins and Maven</li> <li>Ability to author developer-friendly documentation such as API documentation and deployment operations</li> <li>Proven ability to apply good software engineering principles and practices</li> <li>Ability to select and use the best tools for the job, particularly open-source solutions</li> <li>Ability to communicate clearly to technical and non-technical audiences</li> <li>Experience working within a multidisciplinary, agile team formal</li> <li>A mindset and work approach that aligns with our core values (<a href="https://skylight.digital/company/values/" rel="nofollow">https://skylight.digital/company/values/</a>)</li> <li>Ability to travel from time to time (when it's safe)</li> </ul></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/485950/software-engineer-skylight</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Back-End Software Engineer</title><link>https://stackoverflow.com/jobs/448331/senior-back-end-software-engineer-pulsedata</link><description>$100k–175k, Equity, Remote - python, apache-spark, sql, mongo</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/485950/software-engineer-skylight</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Back-End Software Engineer</title><link>https://stackoverflow.com/jobs/448331/senior-back-end-software-engineer-pulsedata</link><description>$100k–175k, Equity, Remote - python, apache-spark, sql, mongo</description><content:encoded><![CDATA[        <div>
             <h2>Senior Back-End Software Engineer</h2>
             <p><b>Company: </b><i>pulseData</i></p>
             <p><b>Location: </b><i>New York, NY</i></p>
@@ -854,7 +885,7 @@
 <li>While pulseData is based in New York, the location of this position is flexible. If the candidate is based remotely it will be expected that they travel to New York at least once a month once conditions are safe for business travel to resume.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/448331/senior-back-end-software-engineer-pulsedata</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Platform Engineer</title><link>https://stackoverflow.com/jobs/475365/senior-platform-engineer-tessian</link><description>£75k–105k, Equity, Remote, Visa sponsor, Paid relocation - amazon-web-services, python, terraform, kubernetes, docker, sysadmin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/448331/senior-back-end-software-engineer-pulsedata</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Platform Engineer</title><link>https://stackoverflow.com/jobs/475365/senior-platform-engineer-tessian</link><description>£75k–105k, Equity, Remote, Visa sponsor, Paid relocation - amazon-web-services, python, terraform, kubernetes, docker, sysadmin</description><content:encoded><![CDATA[        <div>
             <h2>Senior Platform Engineer</h2>
             <p><b>Company: </b><i>Tessian</i></p>
             <p><b>Location: </b><i>London, UK</i></p>
@@ -927,38 +958,7 @@
 <li>Never-ending ping-pong tournaments</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475365/senior-platform-engineer-tessian</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Backend Engineer</title><link>https://stackoverflow.com/jobs/469150/senior-backend-engineer-find-your-info-corp</link><description>Easy apply, $50k–150k, Equity, Remote - python, aws-lambda, elasticsearch, graphql, flask</description><content:encoded><![CDATA[        <div>
-            <h2>Senior Backend Engineer</h2>
-            <p><b>Company: </b><i>Find Your Info, Corp</i></p>
-            <p><b>Location: </b><i>No office location</i></p>
-            <p><b>Technologies: </b><i>python, aws-lambda, elasticsearch, graphql, flask</i></p>
-            <p><b>Publication Date: </b><i>13d ago</i></p>
-            <p><b>Other features: </b><i>Easy apply, $50k–150k, Equity, Remote</i></p>
-            <br><hr><br>
-            <h4>Description</h4>
-            <h2>About this job</h2>
-<p><span>Compensation: <strong>$50k - 150k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior</strong></span><br/><span>Role: <strong>Backend Developer</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, aws-lambda, elasticsearch, graphql, flask</p> <br/><br/><h2>Job description</h2> <p><strong>Job Overview</strong> <br><br>As a Senior Backend Engineer, you will own a key part of FYI&rsquo;s infrastructure. Through building integrations with cloud services such as G-Suite, Dropbox, Notion, and many more, you&rsquo;ll help FYI make sure the product delivers on its value proposition: finding the information people need at work, right when they need it. <strong><br><br>What You&rsquo;ll Do:</strong></p>
-<ul>
-<li>Architecture design, API design, data modeling.</li>
-<li>Analyze cloud products and API documentation to design and build integrations&nbsp;</li>
-<li>Data processing, search indexing, API layer.</li>
-<li>Code standards, code reviews, technical planning/research, testing/QA.</li>
-<li>Investigate and resolve bugs/customer issues.</li>
-<li>Assist in scoping, estimating, and planning of projects.</li>
-</ul>
-<p><strong>Who We&rsquo;re Looking For</strong></p>
-<ul>
-<li>You should know AWS, including:&nbsp; API Gateway, CloudFront, CodeBuild, DynamoDB, Elasticache, Fargate, Kinesis, Lamba, RDS, S3.</li>
-<li>You&rsquo;ve got 5 years of experience with: Elasticsearch, Flask, GraphQL,&nbsp; Python, PostgreSQL, SQL, Redis, Serverless.</li>
-<li>You have high accountability and ownership of your work.</li>
-<li>You have a bias towards action. You love to move fast, are self-motivated, and a life-long learner.</li>
-<li>You care about working on fast-growing products while iterating and sweating the details.</li>
-<li>You&rsquo;re willing to do whatever it takes, even if this means working outside of your role (backend help frontend, frontend, handle customer support, etc).</li>
-<li>You&rsquo;re able to effectively balance speed/quality/tech debt and make engineering decisions that enable speed and quality results.</li>
-<li>You&rsquo;re a product thinker who cares about the customer.</li>
-</ul> <br/><br/>
-        </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469150/senior-backend-engineer-find-your-info-corp</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Backend Engineer</title><link>https://stackoverflow.com/jobs/475363/senior-backend-engineer-tessian</link><description>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation - python, continuous-integration, amazon-web-services, docker</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475365/senior-platform-engineer-tessian</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Backend Engineer</title><link>https://stackoverflow.com/jobs/475363/senior-backend-engineer-tessian</link><description>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation - python, continuous-integration, amazon-web-services, docker</description><content:encoded><![CDATA[        <div>
             <h2>Senior Backend Engineer</h2>
             <p><b>Company: </b><i>Tessian</i></p>
             <p><b>Location: </b><i>London, UK</i></p>
@@ -1032,7 +1032,7 @@
 <li>Never-ending ping-pong tournaments</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475363/senior-backend-engineer-tessian</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Site Reliability Engineer (EMEA)</title><link>https://stackoverflow.com/jobs/481725/senior-site-reliability-engineer-emea-hotjar</link><description>€75k–100k, Remote - amazon-web-services, python, kubernetes, terraform, linux</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475363/senior-backend-engineer-tessian</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Site Reliability Engineer (EMEA)</title><link>https://stackoverflow.com/jobs/481725/senior-site-reliability-engineer-emea-hotjar</link><description>€75k–100k, Remote - amazon-web-services, python, kubernetes, terraform, linux</description><content:encoded><![CDATA[        <div>
             <h2>Senior Site Reliability Engineer (EMEA)</h2>
             <p><b>Company: </b><i>Hotjar</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1072,7 +1072,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <p>The compensation range for this role is &euro;75,000 to &euro;100,000 annually. This was established after performing market research and is aligned with our approach to compensation. We encourage all candidates to read our<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/269942975/Recruitment+FAQs#What-is-Hotjar's-approach-to-Compensation%3F" rel="nofollow">&nbsp;Recruitment FAQs</a>&nbsp;to further understand our approach to compensation and how we structure our contracts.</p>
 <p>In addition to the monetary compensation, we also provide all team members with an assortment of unique and popular<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/158105691/Our+Perks" rel="nofollow">&nbsp;perks</a>.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481725/senior-site-reliability-engineer-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior DevOps Engineer</title><link>https://stackoverflow.com/jobs/469781/senior-devops-engineer-postscript</link><description>$140k–170k, Equity, Remote - postgresql, amazon-web-services, devops, docker, python</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481725/senior-site-reliability-engineer-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior DevOps Engineer</title><link>https://stackoverflow.com/jobs/469781/senior-devops-engineer-postscript</link><description>$140k–170k, Equity, Remote - postgresql, amazon-web-services, devops, docker, python</description><content:encoded><![CDATA[        <div>
             <h2>Senior DevOps Engineer</h2>
             <p><b>Company: </b><i>Postscript</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1124,65 +1124,94 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 
 <p><em>You are welcome here. Postscript is an ever-evolving place of equal employment for talented individuals.</em></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469781/senior-devops-engineer-postscript</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Lead NLP Data Scientist</title><link>https://stackoverflow.com/jobs/475362/lead-nlp-data-scientist-tessian</link><description>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation - python, nlp, machine-learning, bigdata, apache-spark</description><content:encoded><![CDATA[        <div>
-            <h2>Lead NLP Data Scientist</h2>
-            <p><b>Company: </b><i>Tessian</i></p>
-            <p><b>Location: </b><i>London, UK</i></p>
-            <p><b>Technologies: </b><i>python, nlp, machine-learning, bigdata, apache-spark</i></p>
-            <p><b>Publication Date: </b><i>28d ago</i></p>
-            <p><b>Other features: </b><i>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation</i></p>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/469781/senior-devops-engineer-postscript</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Flutter Developer</title><link>https://stackoverflow.com/jobs/461423/senior-flutter-developer-rateit</link><description>A$120k–150k, Equity, Remote - saas, flutter, .net-core, startup</description><content:encoded><![CDATA[        <div>
+            <h2>Senior Flutter Developer</h2>
+            <p><b>Company: </b><i>RateIt</i></p>
+            <p><b>Location: </b><i>Melbourne, Australia</i></p>
+            <p><b>Technologies: </b><i>saas, flutter, .net-core, startup</i></p>
+            <p><b>Publication Date: </b><i>2d ago</i></p>
+            <p><b>Other features: </b><i>A$120k–150k, Equity, Remote</i></p>
             <br><hr><br>
             <h4>Description</h4>
             <h2>About this job</h2>
-<p><span>Compensation: <strong>£85k - 95k | Equity</strong></span><br/><span>Location options: <strong>Remote, Visa sponsor, Paid relocation</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead</strong></span><br/><span>Role: <strong>Data Scientist</strong></span><br/><span>Industry: <strong>Cybersecurity, Machine Learning, Security Software</strong></span><br/><span>Company size: <strong>51–200 people</strong></span><br/><span>Company type: <strong>VC Funded</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, nlp, machine-learning, bigdata, apache-spark</p> <br/><br/><h2>Job description</h2> <p><strong>Data Science at Tessian</strong></p>
-<p>Our mission is to secure the human layer. This involves deploying near real-time machine learning models at massive scale to some of the world&rsquo;s largest organisations to keep their most sensitive data private and secure. To do this, we're looking for a senior data scientist with NLP experience ready to work on hard problems, drive best practice and cultivate an environment of experimentation and learning. Companies can leverage data science in a number of ways, and we think the role of a Data Scientist falls into three distinct categories:&nbsp;</p>
-<p>1) You work for a business function analysing &amp; reporting on how to improve a key metric, e.g increasing user conversion</p>
-<p>2) You are responsible for writing production models to enhance the main product, e.g recommendation systems for e-commerce</p>
-<p><strong>3) You are&nbsp;the product - without machine learning, it wouldn't exist&nbsp;</strong></p>
-<p>The Data Science team built the product at Tessian. We couldn't exist without our machine learning models; it&rsquo;s at the heart of what we do, and it&rsquo;s what our clients rely on day-to-day. We're searching for a Lead NLP Data Scientist who is excited about the opportunities and challenges that come with researching, building and deploying real-time production models. In this role you'll get to:</p>
-<ul>
-<li>Work across massive enterprise email datasets</li>
-<li>Deploy models to production that impacts directly our customers and products</li>
-<li>Improve our ML workflow</li>
-<li>Collaborate with engineering and product leaders to develop a product suite that is continually detecting more advanced threats for our customers</li>
-<li>Make your mark on leading ambitious projects</li>
-<li>Mentor and knowledge share with data scientists at Tessian</li>
-</ul>
-<p>We'd love to meet someone who:</p>
-<ul>
-<li>4+ years Data Science experience</li>
-<li>Has strong NLP experience (in production)</li>
-<li>Has worked with, or understands the principles behind working with data at scale</li>
-<li>Can balance longer term projects alongside impactful quick wins</li>
-<li>Cares deeply about the impact their team hasIs a creative at heart, and can encourage novel ways of thinking in their team. This has always been a core part of the data science team&rsquo;s DNA</li>
-<li>Reads <a href="https://developers.google.com/machine-learning/guides/rules-of-ml" rel="nofollow">Rules of Machine Learning - Martin Zinkevich</a> and it resonates with how they think about machine learning and data science</li>
-</ul>
-<p><strong>Why we think you'll love it here....</strong>&nbsp;</p>
-<ul>
-<li>It&rsquo;s important to us that all Tessians are part of the journey we&rsquo;re on, so we offer&nbsp;<strong>equity options with every role</strong>&nbsp;and benchmark to provide&nbsp;<strong>above market rate salaries</strong>&nbsp;- there&rsquo;s plenty more too&hellip;.&nbsp;</li>
-</ul>
-<p><strong>Be at your best, both inside and outside of work</strong>&nbsp;</p>
-<ul>
-<li>25 days of paid holiday (plus 8 bank holidays,&nbsp;<em><strong>and</strong></em>&nbsp;an additional day for every year you've worked at Tessian!)</li>
-<li>Private health insurance provided through Vitality Health and mental health support through our Employee Assistance Program</li>
-<li>Classpass - subsided&nbsp;access to gym time and classes all across London</li>
-<li><a href="https://www.tessian.com/blog/hybird-remote-work-policy-at-tessian/" rel="nofollow">Choice First</a>: Do your best work, in the way that works best for you</li>
-<li>Flexible working hours and working from home (if you're not already remote!)</li>
-<li>Work-from-home subsidy upon joining, so you can kit out your home office</li>
-<li>Enhanced pension contributions, matched up to 5%</li>
-<li>We&rsquo;re family friendly, with policies built to support you in all stages of life</li>
-<li>High-quality tech kit provided for you to work on, plus Tessian ANC headphones</li>
-<li>If you're relocating to join the team, we'll provide a contribution to help with your costs&nbsp;</li>
-</ul>
-<p><strong>Beyond work</strong>&nbsp;</p>
-<ul>
-<li>Elite membership of the Tessian House System...</li>
-<li>Every other Wednesday we stop at 5 and share team updates and drinks</li>
-<li><a href="https://www.instagram.com/tessianofficial/" rel="nofollow">Monthly team socials &amp; a big, whole company extravaganza every quarter</a>&nbsp;</li>
-<li>Never-ending ping-pong tournaments&nbsp;</li>
-</ul> <br/><br/>
+<p><span>Compensation: <strong>A$120k - 150k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>saas, flutter, .net-core, startup</p> <br/><br/><h2>Job description</h2> <em><strong>If you love start-ups, you are passionate about helping customers become successful and you are keen to go on a rapid personal growth journey - read on!</strong></em>
+
+<strong>The core activities for the&nbsp;Flutter Developer role are:</strong>
+&rarr; <strong>Shipping code to production. </strong>
+While you might have a preference for a particular technology or part of the stack (i.e. front-end), we expect you to be able to deliver a user story start to end.&nbsp;
+
+&rarr;<strong> Rapid prototyping. </strong>
+Sometimes we don&rsquo;t fully understand what would be the best solution for a particular challenge. You need to be able to rapidly prototype something so we could bring it to our users to learn more from them.
+
+&rarr; <strong>Working in a cross-functional team to ensure our solutions are highly viable and feasible. </strong>
+We want to be able to rely on your technology expertise to shape our solutions.
+
+&rarr;<strong> Analysing and solving existing technology problems and tech debt in the product. </strong>
+Surfacing a backlog of high-impact technical improvementsWorking effectively with the design team to fine-tune and improve the visual appeal of our products.
+
+&rarr; <strong>Using customer and peer feedback, and data to make informed technical decisions </strong>
+
+&rarr; <strong>Participating in and contributing to the discovery and experimentation process. </strong>
+We&rsquo;re a discovery-driven delivery team. We make bets, accept that some will fail, believe in experimentation, and deliver in small batches while integrating often.
+
+
+<strong>About you:</strong>
+&bull; 10+ years of relevant work experience in modern technology companies (SaaS, eCommerce, B2B)
+
+
+&bull;&nbsp;At least one&nbsp;year of commercial experience&nbsp;in Flutter
+
+
+&bull; 3+ years of mobile development experience
+
+
+
+&bull; Hands-on experience working in modern cross-functional teams with developers, designers and product managers
+
+&bull; You&rsquo;re excited about technology, have a wide range of of tools in your toolbox and know when to use what
+
+&bull; Impressive communication ability and stakeholder management skills
+
+&bull; Excellent comprehension skills to quickly grasp business context and customer problems
+
+&bull; Ability to act in ambiguous situations with limited information and make decisions quickly
+
+&bull; Being able to operate effectively in a rapidly evolving, fast-paced environment
+
+&bull; Experimentation mindset&nbsp;
+
+&bull; Ability to think and deliver iteratively
+
+&bull; Pragmatic thinker, with ability to balance customer and business needs with technical constraints
+
+&bull; Passion for technology and for being a part of a fast-growing SaaS company
+
+
+
+<u><strong>Our promises to you are:&nbsp;</strong></u>
+&bull; You will be empowered to solve problems and will be given the right tools and culture to get it done
+
+&bull; You will always know where you stand with management - no games or politics here
+
+&bull; We want you to always be learning and growing &ndash; so will support you in that journey by giving you a generous monthly allowance for books, courses &amp; your personal fitness
+
+&bull; Encourage you to speak up, both about what's great and what's not
+
+&bull; We will celebrate your hard work and key milestones&nbsp;
+
+
+<strong>What&rsquo;s on offer -</strong>
+&bull; Above industry average salary &amp; package (inc. a range of benefits)
+
+&bull; Share options in the company (&amp; join us on our hyper growth start-up journey!)
+
+&bull; Strong influence on future product direction&nbsp;
+
+&bull; Great team full of CX geeks
+
+&bull; An incredibly fun working environment! <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475362/lead-nlp-data-scientist-tessian</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Mobile Software Engineer (iOS, Android)</title><link>https://stackoverflow.com/jobs/401770/mobile-software-engineer-ios-android-aloe-care-health</link><description>Easy apply, $100k–140k, Equity, Remote - ios, android, mobile, swift, kotlin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/461423/senior-flutter-developer-rateit</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Mobile Software Engineer (iOS, Android)</title><link>https://stackoverflow.com/jobs/401770/mobile-software-engineer-ios-android-aloe-care-health</link><description>Easy apply, $100k–140k, Equity, Remote - ios, android, mobile, swift, kotlin</description><content:encoded><![CDATA[        <div>
             <h2>Mobile Software Engineer (iOS, Android)</h2>
             <p><b>Company: </b><i>Aloe Care Health</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1225,7 +1254,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Help to carry this system out to other consumer and partner-facing touchpoints, such as marketing efforts and certain sales materials</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/401770/mobile-software-engineer-ios-android-aloe-care-health</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Software Engineering Team Lead (EMEA)</title><link>https://stackoverflow.com/jobs/481514/software-engineering-team-lead-emea-hotjar</link><description>€75k–100k, Remote - python, angular, reactjs</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/401770/mobile-software-engineer-ios-android-aloe-care-health</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Software Engineering Team Lead (EMEA)</title><link>https://stackoverflow.com/jobs/481514/software-engineering-team-lead-emea-hotjar</link><description>€75k–100k, Remote - python, angular, reactjs</description><content:encoded><![CDATA[        <div>
             <h2>Software Engineering Team Lead (EMEA)</h2>
             <p><b>Company: </b><i>Hotjar</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1270,7 +1299,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <p>The compensation range for this role is&nbsp;<strong>&euro;75,000 to &euro;100,000</strong>&nbsp;annually. This was established after performing market research and is aligned with our approach to compensation. We encourage all candidates to read our&nbsp;<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/269942975/Recruitment+FAQs#What-is-Hotjar's-approach-to-Compensation%3F" rel="nofollow">Recruitment FAQs</a>&nbsp;to further understand our approach to compensation and how we structure our contracts.</p>
 <p>In addition to the monetary compensation, we also provide all team members with an assortment of unique and popular<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/158105691/Our+Perks" rel="nofollow">&nbsp;perks</a>.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481514/software-engineering-team-lead-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior DevOps Engineer</title><link>https://stackoverflow.com/jobs/484843/senior-devops-engineer-recharge-payments</link><description>$140k–160k, Equity, Remote - python, flask, ansible, kubernetes, google-cloud-platform</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481514/software-engineering-team-lead-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior DevOps Engineer</title><link>https://stackoverflow.com/jobs/484843/senior-devops-engineer-recharge-payments</link><description>$140k–160k, Equity, Remote - python, flask, ansible, kubernetes, google-cloud-platform</description><content:encoded><![CDATA[        <div>
             <h2>Senior DevOps Engineer</h2>
             <p><b>Company: </b><i>ReCharge Payments</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1320,7 +1349,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Development background</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484843/senior-devops-engineer-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Manager of Software Engineering</title><link>https://stackoverflow.com/jobs/484289/manager-of-software-engineering-packet-fabric</link><description>$150k–165k, Remote - python, networking, salesforce, sql</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484843/senior-devops-engineer-recharge-payments</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Manager of Software Engineering</title><link>https://stackoverflow.com/jobs/484289/manager-of-software-engineering-packet-fabric</link><description>$150k–165k, Remote - python, networking, salesforce, sql</description><content:encoded><![CDATA[        <div>
             <h2>Manager of Software Engineering</h2>
             <p><b>Company: </b><i>Packet Fabric</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1368,7 +1397,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Solid working knowledge of carrier networking, interconnection, and related strategies.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484289/manager-of-software-engineering-packet-fabric</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Systems Administrator (Washington, D.C. or U.S. Remote)</title><link>https://stackoverflow.com/jobs/486343/senior-systems-administrator-washington-dc-or-wallethub</link><description>Easy apply, $140k–200k, Remote, Visa sponsor - shell, linux, amazon-web-services, python, amazon-cloudformation, sysadmin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484289/manager-of-software-engineering-packet-fabric</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Systems Administrator (Washington, D.C. or U.S. Remote)</title><link>https://stackoverflow.com/jobs/486343/senior-systems-administrator-washington-dc-or-wallethub</link><description>Easy apply, $140k–200k, Remote, Visa sponsor - shell, linux, amazon-web-services, python, amazon-cloudformation, sysadmin</description><content:encoded><![CDATA[        <div>
             <h2>Senior Systems Administrator (Washington, D.C. or U.S. Remote)</h2>
             <p><b>Company: </b><i>Wallethub</i></p>
             <p><b>Location: </b><i>Washington, DC</i></p>
@@ -1428,7 +1457,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <p>3)&nbsp;<strong>Wallet Surveillance</strong>: Personal finance isn&rsquo;t as scary with 24/7 credit monitoring providing backup, notifying you of important credit-report changes.</p>
 <p>In addition to the valuable intelligence the brain provides, WalletHub is the first and only service to offer free credit scores and full credit reports that are updated on a daily basis absent of user interaction, rather than weekly or monthly and only when a user logs in. Some other services hang their hats on free credit scores and reports, yet they&rsquo;re still inferior to what WalletHub considers minor pieces to a much larger puzzle.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/486343/senior-systems-administrator-washington-dc-or-wallethub</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full Stack Developer, CMS</title><link>https://stackoverflow.com/jobs/468941/full-stack-developer-cms-us-news-world-report-inc</link><description>Easy apply, $90k–105k, Remote - reactjs, javascript, python, content-management-system, drupal</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/486343/senior-systems-administrator-washington-dc-or-wallethub</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full Stack Developer, CMS</title><link>https://stackoverflow.com/jobs/468941/full-stack-developer-cms-us-news-world-report-inc</link><description>Easy apply, $90k–105k, Remote - reactjs, javascript, python, content-management-system, drupal</description><content:encoded><![CDATA[        <div>
             <h2>Full Stack Developer, CMS</h2>
             <p><b>Company: </b><i>U.S. News & World Report, Inc.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1517,7 +1546,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 </li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/468941/full-stack-developer-cms-us-news-world-report-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>DevSecOps</title><link>https://stackoverflow.com/jobs/488064/devsecops-we-got-pop-ltd</link><description>Easy apply, High response rate, £60k–90k, Remote - security, automation, python, amazon-web-services, devops</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/468941/full-stack-developer-cms-us-news-world-report-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>DevSecOps</title><link>https://stackoverflow.com/jobs/488064/devsecops-we-got-pop-ltd</link><description>Easy apply, High response rate, £60k–90k, Remote - security, automation, python, amazon-web-services, devops</description><content:encoded><![CDATA[        <div>
             <h2>DevSecOps</h2>
             <p><b>Company: </b><i>We Got POP Ltd</i></p>
             <p><b>Location: </b><i>London, UK</i></p>
@@ -1579,7 +1608,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Security and reliability testing in production</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/488064/devsecops-we-got-pop-ltd</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Apple Software Engineer</title><link>https://stackoverflow.com/jobs/465425/apple-software-engineer-plex</link><description>Easy apply, €70k–100k, Equity, Remote - swift, objective-c, tvos, ios, uikit</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/488064/devsecops-we-got-pop-ltd</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Apple Software Engineer</title><link>https://stackoverflow.com/jobs/465425/apple-software-engineer-plex</link><description>Easy apply, €70k–100k, Equity, Remote - swift, objective-c, tvos, ios, uikit</description><content:encoded><![CDATA[        <div>
             <h2>Apple Software Engineer</h2>
             <p><b>Company: </b><i>Plex</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1613,7 +1642,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>You have worked with OpenGL or Metal.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/465425/apple-software-engineer-plex</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Principal Site Reliability Engineer</title><link>https://stackoverflow.com/jobs/482703/principal-site-reliability-engineer-happy-money</link><description>$180k–220k, Equity, Remote - amazon-web-services, java, terraform, kubernetes, python</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/465425/apple-software-engineer-plex</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Principal Site Reliability Engineer</title><link>https://stackoverflow.com/jobs/482703/principal-site-reliability-engineer-happy-money</link><description>$180k–220k, Equity, Remote - amazon-web-services, java, terraform, kubernetes, python</description><content:encoded><![CDATA[        <div>
             <h2>Principal Site Reliability Engineer</h2>
             <p><b>Company: </b><i>Happy Money</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1660,7 +1689,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Have strong connections with industry leaders who we could leverage for topical discussions</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/482703/principal-site-reliability-engineer-happy-money</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Python Engineer for Distributed Systems</title><link>https://stackoverflow.com/jobs/454972/senior-python-engineer-for-distributed-systems-hazelcast</link><description>$70k–100k, Equity, Remote - python, java, distributed-system, concurrency, networking</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/482703/principal-site-reliability-engineer-happy-money</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Python Engineer for Distributed Systems</title><link>https://stackoverflow.com/jobs/454972/senior-python-engineer-for-distributed-systems-hazelcast</link><description>$70k–100k, Equity, Remote - python, java, distributed-system, concurrency, networking</description><content:encoded><![CDATA[        <div>
             <h2>Senior Python Engineer for Distributed Systems</h2>
             <p><b>Company: </b><i>Hazelcast</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1698,7 +1727,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Conference speaking opportunities</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/454972/senior-python-engineer-for-distributed-systems-hazelcast</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Machine Learning Engineer (Latin America- Remote)</title><link>https://stackoverflow.com/jobs/295632/machine-learning-engineer-latin-america-remote-blue-orange-digital</link><description>$36k–90k, Remote - python, amazon-web-services, machine-learning, recommendation-engine, amazon-sagemaker</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/454972/senior-python-engineer-for-distributed-systems-hazelcast</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Machine Learning Engineer (Latin America- Remote)</title><link>https://stackoverflow.com/jobs/295632/machine-learning-engineer-latin-america-remote-blue-orange-digital</link><description>$36k–90k, Remote - python, amazon-web-services, machine-learning, recommendation-engine, amazon-sagemaker</description><content:encoded><![CDATA[        <div>
             <h2>Machine Learning Engineer (Latin America- Remote)</h2>
             <p><b>Company: </b><i>Blue Orange Digital</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1739,7 +1768,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <p><strong>About Blue Orange Digital</strong></p>
 <p>Founded by freelance engineers, Blue Orange Digital wanted to bring an engineering-first approach to the development agency model. We are an AWS partner and work on projects that use the latest and greatest technologies. We care about the products we build and only work with clients who understand that good applications come from happy engineers and team members. We&rsquo;re headquartered in NYC and DC with additional remote engineers across the US.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/295632/machine-learning-engineer-latin-america-remote-blue-orange-digital</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Data Engineer (Remote)</title><link>https://stackoverflow.com/jobs/299049/data-engineer-remote-blue-orange-digital</link><description>$36k–84k, Remote - python, amazon-web-services, apache-spark, etl, airflow</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/295632/machine-learning-engineer-latin-america-remote-blue-orange-digital</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Data Engineer (Remote)</title><link>https://stackoverflow.com/jobs/299049/data-engineer-remote-blue-orange-digital</link><description>$36k–84k, Remote - python, amazon-web-services, apache-spark, etl, airflow</description><content:encoded><![CDATA[        <div>
             <h2>Data Engineer (Remote)</h2>
             <p><b>Company: </b><i>Blue Orange Digital</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1770,7 +1799,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Interacts with others using sound judgment, good humor, and consistent fairness in a fast-paced environment</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/299049/data-engineer-remote-blue-orange-digital</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>iOS Developer</title><link>https://stackoverflow.com/jobs/484603/ios-developer-fretello-gmbh</link><description>€40k–48k, Remote - swift, objective-c, tdd, continuous-integration, mvvm</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/299049/data-engineer-remote-blue-orange-digital</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>iOS Developer</title><link>https://stackoverflow.com/jobs/484603/ios-developer-fretello-gmbh</link><description>€40k–48k, Remote - swift, objective-c, tdd, continuous-integration, mvvm</description><content:encoded><![CDATA[        <div>
             <h2>iOS Developer</h2>
             <p><b>Company: </b><i>Fretello GmbH</i></p>
             <p><b>Location: </b><i>Linz, Österreich</i></p>
@@ -1802,94 +1831,7 @@ You enjoy programming (not just quick scripts!) and are excited to have a mix of
 <li>Proactive self-starter with a positive mindset and a desire to learn</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484603/ios-developer-fretello-gmbh</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Flutter Developer</title><link>https://stackoverflow.com/jobs/461423/senior-flutter-developer-rateit</link><description>A$120k–150k, Equity, Remote - saas, flutter, .net-core, startup</description><content:encoded><![CDATA[        <div>
-            <h2>Senior Flutter Developer</h2>
-            <p><b>Company: </b><i>RateIt</i></p>
-            <p><b>Location: </b><i>Melbourne, Australia</i></p>
-            <p><b>Technologies: </b><i>saas, flutter, .net-core, startup</i></p>
-            <p><b>Publication Date: </b><i>2d ago</i></p>
-            <p><b>Other features: </b><i>A$120k–150k, Equity, Remote</i></p>
-            <br><hr><br>
-            <h4>Description</h4>
-            <h2>About this job</h2>
-<p><span>Compensation: <strong>A$120k - 150k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>saas, flutter, .net-core, startup</p> <br/><br/><h2>Job description</h2> <em><strong>If you love start-ups, you are passionate about helping customers become successful and you are keen to go on a rapid personal growth journey - read on!</strong></em>
-
-<strong>The core activities for the&nbsp;Flutter Developer role are:</strong>
-&rarr; <strong>Shipping code to production. </strong>
-While you might have a preference for a particular technology or part of the stack (i.e. front-end), we expect you to be able to deliver a user story start to end.&nbsp;
-
-&rarr;<strong> Rapid prototyping. </strong>
-Sometimes we don&rsquo;t fully understand what would be the best solution for a particular challenge. You need to be able to rapidly prototype something so we could bring it to our users to learn more from them.
-
-&rarr; <strong>Working in a cross-functional team to ensure our solutions are highly viable and feasible. </strong>
-We want to be able to rely on your technology expertise to shape our solutions.
-
-&rarr;<strong> Analysing and solving existing technology problems and tech debt in the product. </strong>
-Surfacing a backlog of high-impact technical improvementsWorking effectively with the design team to fine-tune and improve the visual appeal of our products.
-
-&rarr; <strong>Using customer and peer feedback, and data to make informed technical decisions </strong>
-
-&rarr; <strong>Participating in and contributing to the discovery and experimentation process. </strong>
-We&rsquo;re a discovery-driven delivery team. We make bets, accept that some will fail, believe in experimentation, and deliver in small batches while integrating often.
-
-
-<strong>About you:</strong>
-&bull; 10+ years of relevant work experience in modern technology companies (SaaS, eCommerce, B2B)
-
-
-&bull;&nbsp;At least one&nbsp;year of commercial experience&nbsp;in Flutter
-
-
-&bull; 3+ years of mobile development experience
-
-
-
-&bull; Hands-on experience working in modern cross-functional teams with developers, designers and product managers
-
-&bull; You&rsquo;re excited about technology, have a wide range of of tools in your toolbox and know when to use what
-
-&bull; Impressive communication ability and stakeholder management skills
-
-&bull; Excellent comprehension skills to quickly grasp business context and customer problems
-
-&bull; Ability to act in ambiguous situations with limited information and make decisions quickly
-
-&bull; Being able to operate effectively in a rapidly evolving, fast-paced environment
-
-&bull; Experimentation mindset&nbsp;
-
-&bull; Ability to think and deliver iteratively
-
-&bull; Pragmatic thinker, with ability to balance customer and business needs with technical constraints
-
-&bull; Passion for technology and for being a part of a fast-growing SaaS company
-
-
-
-<u><strong>Our promises to you are:&nbsp;</strong></u>
-&bull; You will be empowered to solve problems and will be given the right tools and culture to get it done
-
-&bull; You will always know where you stand with management - no games or politics here
-
-&bull; We want you to always be learning and growing &ndash; so will support you in that journey by giving you a generous monthly allowance for books, courses &amp; your personal fitness
-
-&bull; Encourage you to speak up, both about what's great and what's not
-
-&bull; We will celebrate your hard work and key milestones&nbsp;
-
-
-<strong>What&rsquo;s on offer -</strong>
-&bull; Above industry average salary &amp; package (inc. a range of benefits)
-
-&bull; Share options in the company (&amp; join us on our hyper growth start-up journey!)
-
-&bull; Strong influence on future product direction&nbsp;
-
-&bull; Great team full of CX geeks
-
-&bull; An incredibly fun working environment! <br/><br/>
-        </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/461423/senior-flutter-developer-rateit</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Flutter Engineer, Mobile Banking Product, Fully Remote (North and South America)</title><link>https://stackoverflow.com/jobs/200769/flutter-engineer-mobile-banking-product-fully-superformula</link><description>$80k–180k, Remote - dart, flutter, ios, reactjs, mobile</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484603/ios-developer-fretello-gmbh</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Flutter Engineer, Mobile Banking Product, Fully Remote (North and South America)</title><link>https://stackoverflow.com/jobs/200769/flutter-engineer-mobile-banking-product-fully-superformula</link><description>$80k–180k, Remote - dart, flutter, ios, reactjs, mobile</description><content:encoded><![CDATA[        <div>
             <h2>Flutter Engineer, Mobile Banking Product, Fully Remote (North and South America)</h2>
             <p><b>Company: </b><i>Superformula</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -1947,7 +1889,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>There is a lot to be responsible for and own. You will not know the answers to everything so it is critical that you have excellent verbal and written communication skills, and that you understand how these skills help you to stay resourceful and take initiative. That passion you have for learning new things has paid dividends in the past.</p>
 <p>This is a remote job. Our team spans several timezones and knowing how to close loops without losing days in between is easier because your level of organization helps those around you stay close. So if you live on the West Coast you are happy to work early hours in order to build strong bonds with those in other regions. You are driven to work with people across the globe and are respectful and courteous to backgrounds and circumstances while promoting a healthy sense of urgency because after all, you love to ship top-flight products. And you understand that the best product of all is a well cultivated and positive culture amongst those you appreciate calling your Team.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/200769/flutter-engineer-mobile-banking-product-fully-superformula</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>DevOps Engineer</title><link>https://stackoverflow.com/jobs/443400/devops-engineer-decodifyme-llc</link><description>Easy apply, $40k–70k, Equity, Remote - javascript, python, docker, linux, git</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/200769/flutter-engineer-mobile-banking-product-fully-superformula</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>DevOps Engineer</title><link>https://stackoverflow.com/jobs/443400/devops-engineer-decodifyme-llc</link><description>Easy apply, $40k–70k, Equity, Remote - javascript, python, docker, linux, git</description><content:encoded><![CDATA[        <div>
             <h2>DevOps Engineer</h2>
             <p><b>Company: </b><i>Decodify.me LLC</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2027,12 +1969,12 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>- Serverless Framework</p>
 <p><strong>Extra tech and experience is a plus.</strong></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/443400/devops-engineer-decodifyme-llc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Data Engineer</title><link>https://stackoverflow.com/jobs/462177/senior-data-engineer-growflow</link><description>$120k–140k, Equity, Remote - sql, python, powerbi, google-bigquery, dbt</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/443400/devops-engineer-decodifyme-llc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Data Engineer</title><link>https://stackoverflow.com/jobs/462177/senior-data-engineer-growflow</link><description>$120k–140k, Equity, Remote - sql, python, powerbi, google-bigquery, dbt</description><content:encoded><![CDATA[        <div>
             <h2>Senior Data Engineer</h2>
             <p><b>Company: </b><i>GrowFlow</i></p>
             <p><b>Location: </b><i>No office location</i></p>
             <p><b>Technologies: </b><i>sql, python, powerbi, google-bigquery, dbt</i></p>
-            <p><b>Publication Date: </b><i>20h ago</i></p>
+            <p><b>Publication Date: </b><i>21h ago</i></p>
             <p><b>Other features: </b><i>$120k–140k, Equity, Remote</i></p>
             <br><hr><br>
             <h4>Description</h4>
@@ -2100,7 +2042,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>We are offering an annual salary in the range of $120,000 - $140,000 USD.</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/462177/senior-data-engineer-growflow</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Technical Analyst and Software Project Manager</title><link>https://stackoverflow.com/jobs/466545/senior-technical-analyst-and-software-project-maplarge</link><description>Easy apply, $100k–150k, Equity, Remote - python, java, javascript, c#, r</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/462177/senior-data-engineer-growflow</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Technical Analyst and Software Project Manager</title><link>https://stackoverflow.com/jobs/466545/senior-technical-analyst-and-software-project-maplarge</link><description>Easy apply, $100k–150k, Equity, Remote - python, java, javascript, c#, r</description><content:encoded><![CDATA[        <div>
             <h2>Senior Technical Analyst and Software Project Manager</h2>
             <p><b>Company: </b><i>MapLarge</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2168,7 +2110,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Cutting Edge Tech</li>
 </ol> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/466545/senior-technical-analyst-and-software-project-maplarge</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Native Mobile App Engineer that loves Swift/Kotlin or both</title><link>https://stackoverflow.com/jobs/458141/native-mobile-app-engineer-that-loves-swift-chalkboard-software-limited</link><description>£30k–45k, Equity, Remote - swift, kotlin, ios, android</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/466545/senior-technical-analyst-and-software-project-maplarge</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Native Mobile App Engineer that loves Swift/Kotlin or both</title><link>https://stackoverflow.com/jobs/458141/native-mobile-app-engineer-that-loves-swift-chalkboard-software-limited</link><description>£30k–45k, Equity, Remote - swift, kotlin, ios, android</description><content:encoded><![CDATA[        <div>
             <h2>Native Mobile App Engineer that loves Swift/Kotlin or both</h2>
             <p><b>Company: </b><i>Chalkboard Software Limited</i></p>
             <p><b>Location: </b><i>Manchester, UK</i></p>
@@ -2218,7 +2160,65 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Coffee, tea &amp; snacks provided</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/458141/native-mobile-app-engineer-that-loves-swift-chalkboard-software-limited</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Site Reliability Engineering Developer</title><link>https://stackoverflow.com/jobs/484648/site-reliability-engineering-developer-encircle-inc</link><description>C$75k–105k, Remote - cloud, python, web-services, linux, saas, sysadmin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/458141/native-mobile-app-engineer-that-loves-swift-chalkboard-software-limited</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Lead NLP Data Scientist</title><link>https://stackoverflow.com/jobs/475362/lead-nlp-data-scientist-tessian</link><description>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation - python, nlp, machine-learning, bigdata, apache-spark</description><content:encoded><![CDATA[        <div>
+            <h2>Lead NLP Data Scientist</h2>
+            <p><b>Company: </b><i>Tessian</i></p>
+            <p><b>Location: </b><i>London, UK</i></p>
+            <p><b>Technologies: </b><i>python, nlp, machine-learning, bigdata, apache-spark</i></p>
+            <p><b>Publication Date: </b><i>28d ago</i></p>
+            <p><b>Other features: </b><i>£85k–95k, Equity, Remote, Visa sponsor, Paid relocation</i></p>
+            <br><hr><br>
+            <h4>Description</h4>
+            <h2>About this job</h2>
+<p><span>Compensation: <strong>£85k - 95k | Equity</strong></span><br/><span>Location options: <strong>Remote, Visa sponsor, Paid relocation</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead</strong></span><br/><span>Role: <strong>Data Scientist</strong></span><br/><span>Industry: <strong>Cybersecurity, Machine Learning, Security Software</strong></span><br/><span>Company size: <strong>51–200 people</strong></span><br/><span>Company type: <strong>VC Funded</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, nlp, machine-learning, bigdata, apache-spark</p> <br/><br/><h2>Job description</h2> <p><strong>Data Science at Tessian</strong></p>
+<p>Our mission is to secure the human layer. This involves deploying near real-time machine learning models at massive scale to some of the world&rsquo;s largest organisations to keep their most sensitive data private and secure. To do this, we're looking for a senior data scientist with NLP experience ready to work on hard problems, drive best practice and cultivate an environment of experimentation and learning. Companies can leverage data science in a number of ways, and we think the role of a Data Scientist falls into three distinct categories:&nbsp;</p>
+<p>1) You work for a business function analysing &amp; reporting on how to improve a key metric, e.g increasing user conversion</p>
+<p>2) You are responsible for writing production models to enhance the main product, e.g recommendation systems for e-commerce</p>
+<p><strong>3) You are&nbsp;the product - without machine learning, it wouldn't exist&nbsp;</strong></p>
+<p>The Data Science team built the product at Tessian. We couldn't exist without our machine learning models; it&rsquo;s at the heart of what we do, and it&rsquo;s what our clients rely on day-to-day. We're searching for a Lead NLP Data Scientist who is excited about the opportunities and challenges that come with researching, building and deploying real-time production models. In this role you'll get to:</p>
+<ul>
+<li>Work across massive enterprise email datasets</li>
+<li>Deploy models to production that impacts directly our customers and products</li>
+<li>Improve our ML workflow</li>
+<li>Collaborate with engineering and product leaders to develop a product suite that is continually detecting more advanced threats for our customers</li>
+<li>Make your mark on leading ambitious projects</li>
+<li>Mentor and knowledge share with data scientists at Tessian</li>
+</ul>
+<p>We'd love to meet someone who:</p>
+<ul>
+<li>4+ years Data Science experience</li>
+<li>Has strong NLP experience (in production)</li>
+<li>Has worked with, or understands the principles behind working with data at scale</li>
+<li>Can balance longer term projects alongside impactful quick wins</li>
+<li>Cares deeply about the impact their team hasIs a creative at heart, and can encourage novel ways of thinking in their team. This has always been a core part of the data science team&rsquo;s DNA</li>
+<li>Reads <a href="https://developers.google.com/machine-learning/guides/rules-of-ml" rel="nofollow">Rules of Machine Learning - Martin Zinkevich</a> and it resonates with how they think about machine learning and data science</li>
+</ul>
+<p><strong>Why we think you'll love it here....</strong>&nbsp;</p>
+<ul>
+<li>It&rsquo;s important to us that all Tessians are part of the journey we&rsquo;re on, so we offer&nbsp;<strong>equity options with every role</strong>&nbsp;and benchmark to provide&nbsp;<strong>above market rate salaries</strong>&nbsp;- there&rsquo;s plenty more too&hellip;.&nbsp;</li>
+</ul>
+<p><strong>Be at your best, both inside and outside of work</strong>&nbsp;</p>
+<ul>
+<li>25 days of paid holiday (plus 8 bank holidays,&nbsp;<em><strong>and</strong></em>&nbsp;an additional day for every year you've worked at Tessian!)</li>
+<li>Private health insurance provided through Vitality Health and mental health support through our Employee Assistance Program</li>
+<li>Classpass - subsided&nbsp;access to gym time and classes all across London</li>
+<li><a href="https://www.tessian.com/blog/hybird-remote-work-policy-at-tessian/" rel="nofollow">Choice First</a>: Do your best work, in the way that works best for you</li>
+<li>Flexible working hours and working from home (if you're not already remote!)</li>
+<li>Work-from-home subsidy upon joining, so you can kit out your home office</li>
+<li>Enhanced pension contributions, matched up to 5%</li>
+<li>We&rsquo;re family friendly, with policies built to support you in all stages of life</li>
+<li>High-quality tech kit provided for you to work on, plus Tessian ANC headphones</li>
+<li>If you're relocating to join the team, we'll provide a contribution to help with your costs&nbsp;</li>
+</ul>
+<p><strong>Beyond work</strong>&nbsp;</p>
+<ul>
+<li>Elite membership of the Tessian House System...</li>
+<li>Every other Wednesday we stop at 5 and share team updates and drinks</li>
+<li><a href="https://www.instagram.com/tessianofficial/" rel="nofollow">Monthly team socials &amp; a big, whole company extravaganza every quarter</a>&nbsp;</li>
+<li>Never-ending ping-pong tournaments&nbsp;</li>
+</ul> <br/><br/>
+        </div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475362/lead-nlp-data-scientist-tessian</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Site Reliability Engineering Developer</title><link>https://stackoverflow.com/jobs/484648/site-reliability-engineering-developer-encircle-inc</link><description>C$75k–105k, Remote - cloud, python, web-services, linux, saas, sysadmin</description><content:encoded><![CDATA[        <div>
             <h2>Site Reliability Engineering Developer</h2>
             <p><b>Company: </b><i>Encircle Inc.</i></p>
             <p><b>Location: </b><i>Kitchener, ON, Canada</i></p>
@@ -2273,7 +2273,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>To be eligible to work for Encircle, you must be able to legally work in Canada. We support working from home or from the Kitchener office.</p>
 <p>Encircle is an equal opportunity employer. In accordance with the Accessibility for Ontarians with Disabilities Act, 2005, upon request, accommodation will be provided by Encircle throughout the recruitment, selection and/or assessment process to applicants with disabilities.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484648/site-reliability-engineering-developer-encircle-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Azure Machine Learning Engineer | Location Intelligence Application</title><link>https://stackoverflow.com/jobs/444396/azure-machine-learning-engineer-location-sitezeus</link><description>Easy apply, $115k–160k, Equity, Remote - azureml, azure-devops, python, r, machine-learning</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/484648/site-reliability-engineering-developer-encircle-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Azure Machine Learning Engineer | Location Intelligence Application</title><link>https://stackoverflow.com/jobs/444396/azure-machine-learning-engineer-location-sitezeus</link><description>Easy apply, $115k–160k, Equity, Remote - azureml, azure-devops, python, r, machine-learning</description><content:encoded><![CDATA[        <div>
             <h2>Azure Machine Learning Engineer | Location Intelligence Application</h2>
             <p><b>Company: </b><i>SiteZeus</i></p>
             <p><b>Location: </b><i>Tampa, FL</i></p>
@@ -2329,7 +2329,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 </ul>
 <p>Job Type: Full-time</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/444396/azure-machine-learning-engineer-location-sitezeus</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Full Stack Engineer - Python/ReactJS</title><link>https://stackoverflow.com/jobs/486400/full-stack-engineer-python-reactjs-schoolytics</link><description>Easy apply, $100k–125k, Equity, Remote - python, reactjs, google-cloud-platform</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/444396/azure-machine-learning-engineer-location-sitezeus</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Full Stack Engineer - Python/ReactJS</title><link>https://stackoverflow.com/jobs/486400/full-stack-engineer-python-reactjs-schoolytics</link><description>Easy apply, $100k–125k, Equity, Remote - python, reactjs, google-cloud-platform</description><content:encoded><![CDATA[        <div>
             <h2>Full Stack Engineer - Python/ReactJS</h2>
             <p><b>Company: </b><i>Schoolytics</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2355,7 +2355,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>&bull; Experience with Google Cloud Platform<br>&bull; Familiarity with Docker, Kubernetes, MongoDB, Hapi.js, ReactJS<br>&bull; Knowledge of data engineering and data acquisition<br>&bull; Experience with continuous integration and deployment</p>
 <p>Candidates selected for the first round will participate in SWYG:<br>Swyg is a peer to peer interviewing platform that gives everyone a chance to shine, with a fair and personal evaluation. Find out more here:&nbsp;<a href="https://swyg.com/candidates/" rel="nofollow" target="_blank">https://swyg.com/candidates</a></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/486400/full-stack-engineer-python-reactjs-schoolytics</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>iOS Developer (Remote)</title><link>https://stackoverflow.com/jobs/443591/ios-developer-remote-neybox-digital-ltd</link><description>Easy apply, €40k–60k, Remote - ios, swift, watchkit</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/486400/full-stack-engineer-python-reactjs-schoolytics</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>iOS Developer (Remote)</title><link>https://stackoverflow.com/jobs/443591/ios-developer-remote-neybox-digital-ltd</link><description>Easy apply, €40k–60k, Remote - ios, swift, watchkit</description><content:encoded><![CDATA[        <div>
             <h2>iOS Developer (Remote)</h2>
             <p><b>Company: </b><i>Neybox Digital Ltd.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2391,7 +2391,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>We offer a great salary, paid vacation time, and financial support for opportunities that will help you grow as a professional. We reward every team member with additional bonuses and benefits for great work and personal or team goals achieved.</p>
 <p>If that sounds like what you're looking for, apply for the position, and we'll reach out to set up a meeting to get to know you better.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/443591/ios-developer-remote-neybox-digital-ltd</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Fullstack Engineer</title><link>https://stackoverflow.com/jobs/482702/senior-fullstack-engineer-happy-money</link><description>$145k–175k, Equity, Remote - java, node.js, reactjs, python</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/443591/ios-developer-remote-neybox-digital-ltd</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Fullstack Engineer</title><link>https://stackoverflow.com/jobs/482702/senior-fullstack-engineer-happy-money</link><description>$145k–175k, Equity, Remote - java, node.js, reactjs, python</description><content:encoded><![CDATA[        <div>
             <h2>Senior Fullstack Engineer</h2>
             <p><b>Company: </b><i>Happy Money</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2434,48 +2434,38 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Hands-on experience with Apache Kafka, Spark and/or Hadoop Stack</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/482702/senior-fullstack-engineer-happy-money</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Python Engineer</title><link>https://stackoverflow.com/jobs/419347/python-engineer-tiledb-inc</link><description>Easy apply, $130k–160k, Equity, Remote - python, cython, tensorflow, keras, pytorch</description><content:encoded><![CDATA[        <div>
-            <h2>Python Engineer</h2>
-            <p><b>Company: </b><i>TileDB, Inc.</i></p>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/482702/senior-fullstack-engineer-happy-money</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Technical Lead, Reliability Engineering</title><link>https://stackoverflow.com/jobs/448515/technical-lead-reliability-engineering-hubspot</link><description>$150k–200k, Equity, Remote, Paid relocation - java, python, amazon-web-services, web-services</description><content:encoded><![CDATA[        <div>
+            <h2>Technical Lead, Reliability Engineering</h2>
+            <p><b>Company: </b><i>HubSpot</i></p>
             <p><b>Location: </b><i>Cambridge, MA</i></p>
-            <p><b>Technologies: </b><i>python, cython, tensorflow, keras, pytorch</i></p>
-            <p><b>Publication Date: </b><i>21d ago</i></p>
-            <p><b>Other features: </b><i>Easy apply, $130k–160k, Equity, Remote</i></p>
+            <p><b>Technologies: </b><i>java, python, amazon-web-services, web-services</i></p>
+            <p><b>Publication Date: </b><i>9d ago</i></p>
+            <p><b>Other features: </b><i>$150k–200k, Equity, Remote, Paid relocation</i></p>
             <br><hr><br>
             <h4>Description</h4>
             <h2>About this job</h2>
-<p><span>Compensation: <strong>$130k - 160k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior</strong></span><br/><span>Industry: <strong>Data Science, Genomics, Geographic Information System</strong></span><br/><span>Company size: <strong>11–50 people</strong></span><br/><span>Company type: <strong>VC Funded</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, cython, tensorflow, keras, pytorch</p> <br/><br/><h2>Job description</h2> <p><strong>Description</strong></p>
-<p>We are looking for a Python-focused software engineer to build and enhance our existing APIs and integrations with the Scientific Python ecosystem. TileDB&rsquo;s Python API (<a href="https://github.com/TileDB-Inc/TileDB-Py" rel="nofollow" target="_blank">https://github.com/TileDB-Inc/TileDB-Py</a>) wraps the TileDB core C API, and integrates closely with NumPy to provide zero-copy data access. You will build and enhance the Python API through interfacing with the core library; build new integrations with data science, scientific, and machine learning libraries; and engage with the community and customers to create value through the use of TileDB.</p>
-<p><strong>Location</strong></p>
-<p>Our headquarters are in Cambridge, MA, USA and we have a subsidiary in Athens, Greece. However, you will have the flexibility to work remotely as long as your residence is in the USA or Greece. US candidates must be US citizens, whereas Greek candidates must be Greek or EU citizens.</p>
-<p><strong>Expectations</strong></p>
-<p>In your first 30 days, you will familiarize yourself with TileDB, the TileDB-Py API and the TileDB-Dask integration. After 30 days, you will be fully integrated in our team. You&rsquo;ll be an active contributor and maintainer of the TileDB-Py project, and ready to start designing and implementing new features, as well as engaging with the Python and Data Science community.</p>
-<p><strong>Requirements</strong></p>
+<p><span>Compensation: <strong>$150k - 200k | Equity</strong></span><br/><span>Location options: <strong>Remote, Paid relocation</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead, Manager</strong></span><br/><span>Industry: <strong>B2B Sales, Cloud Services, Marketing Software</strong></span><br/><span>Company size: <strong>1k–5k people</strong></span><br/><span>Company type: <strong>Public</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>java, python, amazon-web-services, web-services</p> <br/><br/><h2>Job description</h2> <p><strong><strong>About the team</strong></strong></p>
+<p>The HubSpot Product team is made up of over 700 engineers, designers, product managers, and researchers. We&rsquo;re passionate about building tools that help small and medium-sized businesses market, sell, and serve their customers &mdash; and ultimately, grow better.</p>
+<p>Those tools end up in the HubSpot application platform, which itself is made up of thousands of services, workers, and jobs spanning over 170 teams and thousands of repos. Our teams work autonomously to deploy these systems across a common infrastructure, up to 3,000 times a day. As we&rsquo;ve grown to serve over 75,000 customers in 100 countries, reliability and stability have become just as important as speed and time to market. And as we&rsquo;ve opened up our APIs, our product has moved to the core of many of our customers&rsquo; and partners&rsquo; businesses.</p>
+<p>In 2019, we built an SRE team to help our product teams focus on delivering highly available and dependable products. This team is off to a great start: evangelizing, building tools, and embedding onto product teams. We are looking to grow this team by hiring engineers with an interest in reliability and scale. This is an opportunity to work on hard problems across a variety of domains with an experienced team of software engineers.</p>
+<p><strong><strong>What you&rsquo;ll do</strong></strong></p>
 <ul>
-<li>5+ years of experience as a software engineer</li>
-<li>Expertise in Python and experience with NumPy</li>
-<li>Experience interfacing with the CPython API, and Cython or pybind11</li>
-<li>Experience with Python packaging, including binary distribution</li>
-<li>Experience with C, C++, Rust, or a similar systems-level language</li>
-<li>Distributed computation with Dask, Spark, or similar distributed computation system</li>
-<li>Experience with a machine learning library (e.g. scikit-learn, TensorFlow, Keras, PyTorch, Theano)</li>
-<li>Experience with Amazon Web Services or a similar cloud platform</li>
-<li>Experience with dataframe-focused systems (e.g. Arrow, Pandas, data.frame, Vaex)</li>
-<li>Experience with technical data formats such as (e.g. Parquet, HDF5, VCF, DICOM, GeoTIFF)</li>
-<li>Experience with other technical computing systems (e.g. R, MATLAB, Julia)</li>
+<li>Help product and infrastructure teams hold retroactive root cause analysis meetings, focusing on identifying remediations using a blameless process similar to the 5 whys methodology</li>
+<li>Embed on product and infrastructure teams directly to build more reliable, scalable software</li>
+<li>Conceive, design, and build infrastructure tooling that improves reliability across the entire product surface area, dealing with massive distributed scale</li>
+<li>Evangelize best practices around reliability engineering</li>
+<li>Proactively identify risks and advocate for engineering process, tooling, or work streams that reduce that risk in a customer centric way</li>
 </ul>
-<p><strong>Benefits</strong></p>
+<p><strong>What we&rsquo;re looking for</strong></p>
 <ul>
-<li>Competitive salary and stock options</li>
-<li>100% medical and dental insurance coverage (for you and your dependents!)</li>
-<li>Paid parental leave</li>
-<li>Paid time off (vacation, sick &amp; public holidays)</li>
-<li>Flexible time off &amp; flexible hours</li>
-<li>Flexibility to work remotely (anywhere in the US or Greece)</li>
-</ul>
-<p><em>TileDB, Inc. is proud to be an Equal Opportunity Employer building a diverse and inclusive team.</em></p> <br/><br/>
+<li>Experience designing and operating distributed systems at scale</li>
+<li>Experience with improving reliability through better automated systems, configuration, chaos testing, and process improvement</li>
+<li>Experience working collaboratively with other engineering teams</li>
+<li>Interest or experience implementing and iterating on process to improve outcomes with minimal disruption to team culture</li>
+<li>Interest or experience working across multiple stakeholders to drive effective change</li>
+</ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/419347/python-engineer-tiledb-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Engineering Manager</title><link>https://stackoverflow.com/jobs/475364/senior-engineering-manager-tessian</link><description>£75k–90k, Equity, Remote, Visa sponsor, Paid relocation - python, docker, amazon-web-services, machine-learning</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/448515/technical-lead-reliability-engineering-hubspot</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Engineering Manager</title><link>https://stackoverflow.com/jobs/475364/senior-engineering-manager-tessian</link><description>£75k–90k, Equity, Remote, Visa sponsor, Paid relocation - python, docker, amazon-web-services, machine-learning</description><content:encoded><![CDATA[        <div>
             <h2>Senior Engineering Manager</h2>
             <p><b>Company: </b><i>Tessian</i></p>
             <p><b>Location: </b><i>London, UK</i></p>
@@ -2514,7 +2504,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 </ul>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475364/senior-engineering-manager-tessian</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Python and Machine Learning Engineer - Remote - EU Time Zone</title><link>https://stackoverflow.com/jobs/436963/senior-python-and-machine-learning-engineer-cvedia-pte-ltd</link><description>$48k–78k, Equity, Remote - machine-learning, computer-vision, python</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/475364/senior-engineering-manager-tessian</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Python and Machine Learning Engineer - Remote - EU Time Zone</title><link>https://stackoverflow.com/jobs/436963/senior-python-and-machine-learning-engineer-cvedia-pte-ltd</link><description>$48k–78k, Equity, Remote - machine-learning, computer-vision, python</description><content:encoded><![CDATA[        <div>
             <h2>Senior Python and Machine Learning Engineer - Remote - EU Time Zone</h2>
             <p><b>Company: </b><i>Cvedia PTE. LTD.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2579,7 +2569,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 
 <p>For more information about us and to see our work, please check out&nbsp;<a href="https://www.cvedia.com/" rel="nofollow">cvedia.com</a></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/436963/senior-python-and-machine-learning-engineer-cvedia-pte-ltd</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior .Net Developer for ML, Computer Vision and Algorithm development</title><link>https://stackoverflow.com/jobs/165235/senior-net-developer-for-ml-computer-vision-and-maplarge</link><description>Easy apply, $100k–160k, Equity, Remote - gis, computer-vision, android, deep-learning, image-processing</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/436963/senior-python-and-machine-learning-engineer-cvedia-pte-ltd</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior .Net Developer for ML, Computer Vision and Algorithm development</title><link>https://stackoverflow.com/jobs/165235/senior-net-developer-for-ml-computer-vision-and-maplarge</link><description>Easy apply, $100k–160k, Equity, Remote - gis, computer-vision, android, deep-learning, image-processing</description><content:encoded><![CDATA[        <div>
             <h2>Senior .Net Developer for ML, Computer Vision and Algorithm development</h2>
             <p><b>Company: </b><i>MapLarge</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2610,7 +2600,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 </ul>
 <p>MapLarge is committed to a diverse and inclusive workplace. MapLarge is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/165235/senior-net-developer-for-ml-computer-vision-and-maplarge</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Python Dev for Open Source Dev Tools</title><link>https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc</link><description>Easy apply, $50k–100k, Equity, Remote - python, github, dvc, open-source, command-line-interface</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/165235/senior-net-developer-for-ml-computer-vision-and-maplarge</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Python Dev for Open Source Dev Tools</title><link>https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc</link><description>Easy apply, $50k–100k, Equity, Remote - python, github, dvc, open-source, command-line-interface</description><content:encoded><![CDATA[        <div>
             <h2>Senior Python Dev for Open Source Dev Tools</h2>
             <p><b>Company: </b><i>Iterative, Inc</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2634,7 +2624,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Finally, take a look at our&nbsp;<a href="https://dvc.org/blog" rel="nofollow">Blog</a>&nbsp;and&nbsp;<a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" rel="nofollow">YouTube</a></li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Data Scientist</title><link>https://stackoverflow.com/jobs/481757/data-scientist-bright-cellars</link><description>Easy apply, $90k–150k, Remote - python, sql, machine-learning, amazon-web-services</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Data Scientist</title><link>https://stackoverflow.com/jobs/481757/data-scientist-bright-cellars</link><description>Easy apply, $90k–150k, Remote - python, sql, machine-learning, amazon-web-services</description><content:encoded><![CDATA[        <div>
             <h2>Data Scientist</h2>
             <p><b>Company: </b><i>Bright Cellars</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2674,7 +2664,48 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li><strong>You&rsquo;re Curious - </strong><span>You are naturally curious and have an interest in learning new things</span></li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481757/data-scientist-bright-cellars</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Growth Engineer</title><link>https://stackoverflow.com/jobs/430168/growth-engineer-medaltv</link><description>$110k–190k, Equity, Remote - reactjs, electron, swift, kotlin, rest</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481757/data-scientist-bright-cellars</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Python Engineer</title><link>https://stackoverflow.com/jobs/419347/python-engineer-tiledb-inc</link><description>Easy apply, $130k–160k, Equity, Remote - python, cython, tensorflow, keras, pytorch</description><content:encoded><![CDATA[        <div>
+            <h2>Python Engineer</h2>
+            <p><b>Company: </b><i>TileDB, Inc.</i></p>
+            <p><b>Location: </b><i>Cambridge, MA</i></p>
+            <p><b>Technologies: </b><i>python, cython, tensorflow, keras, pytorch</i></p>
+            <p><b>Publication Date: </b><i>21d ago</i></p>
+            <p><b>Other features: </b><i>Easy apply, $130k–160k, Equity, Remote</i></p>
+            <br><hr><br>
+            <h4>Description</h4>
+            <h2>About this job</h2>
+<p><span>Compensation: <strong>$130k - 160k | Equity</strong></span><br/><span>Location options: <strong>Remote</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior</strong></span><br/><span>Industry: <strong>Data Science, Genomics, Geographic Information System</strong></span><br/><span>Company size: <strong>11–50 people</strong></span><br/><span>Company type: <strong>VC Funded</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>python, cython, tensorflow, keras, pytorch</p> <br/><br/><h2>Job description</h2> <p><strong>Description</strong></p>
+<p>We are looking for a Python-focused software engineer to build and enhance our existing APIs and integrations with the Scientific Python ecosystem. TileDB&rsquo;s Python API (<a href="https://github.com/TileDB-Inc/TileDB-Py" rel="nofollow" target="_blank">https://github.com/TileDB-Inc/TileDB-Py</a>) wraps the TileDB core C API, and integrates closely with NumPy to provide zero-copy data access. You will build and enhance the Python API through interfacing with the core library; build new integrations with data science, scientific, and machine learning libraries; and engage with the community and customers to create value through the use of TileDB.</p>
+<p><strong>Location</strong></p>
+<p>Our headquarters are in Cambridge, MA, USA and we have a subsidiary in Athens, Greece. However, you will have the flexibility to work remotely as long as your residence is in the USA or Greece. US candidates must be US citizens, whereas Greek candidates must be Greek or EU citizens.</p>
+<p><strong>Expectations</strong></p>
+<p>In your first 30 days, you will familiarize yourself with TileDB, the TileDB-Py API and the TileDB-Dask integration. After 30 days, you will be fully integrated in our team. You&rsquo;ll be an active contributor and maintainer of the TileDB-Py project, and ready to start designing and implementing new features, as well as engaging with the Python and Data Science community.</p>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>5+ years of experience as a software engineer</li>
+<li>Expertise in Python and experience with NumPy</li>
+<li>Experience interfacing with the CPython API, and Cython or pybind11</li>
+<li>Experience with Python packaging, including binary distribution</li>
+<li>Experience with C, C++, Rust, or a similar systems-level language</li>
+<li>Distributed computation with Dask, Spark, or similar distributed computation system</li>
+<li>Experience with a machine learning library (e.g. scikit-learn, TensorFlow, Keras, PyTorch, Theano)</li>
+<li>Experience with Amazon Web Services or a similar cloud platform</li>
+<li>Experience with dataframe-focused systems (e.g. Arrow, Pandas, data.frame, Vaex)</li>
+<li>Experience with technical data formats such as (e.g. Parquet, HDF5, VCF, DICOM, GeoTIFF)</li>
+<li>Experience with other technical computing systems (e.g. R, MATLAB, Julia)</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Competitive salary and stock options</li>
+<li>100% medical and dental insurance coverage (for you and your dependents!)</li>
+<li>Paid parental leave</li>
+<li>Paid time off (vacation, sick &amp; public holidays)</li>
+<li>Flexible time off &amp; flexible hours</li>
+<li>Flexibility to work remotely (anywhere in the US or Greece)</li>
+</ul>
+<p><em>TileDB, Inc. is proud to be an Equal Opportunity Employer building a diverse and inclusive team.</em></p> <br/><br/>
+        </div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/419347/python-engineer-tiledb-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Growth Engineer</title><link>https://stackoverflow.com/jobs/430168/growth-engineer-medaltv</link><description>$110k–190k, Equity, Remote - reactjs, electron, swift, kotlin, rest</description><content:encoded><![CDATA[        <div>
             <h2>Growth Engineer</h2>
             <p><b>Company: </b><i>Medal.tv</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2744,38 +2775,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 </ul>
 <p>If you made it all the way here, include &ldquo;gg&rdquo; in your note and we will give you a virtual high-five when we talk!</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/430168/growth-engineer-medaltv</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Technical Lead, Reliability Engineering</title><link>https://stackoverflow.com/jobs/448515/technical-lead-reliability-engineering-hubspot</link><description>$150k–200k, Equity, Remote, Paid relocation - java, python, amazon-web-services, web-services</description><content:encoded><![CDATA[        <div>
-            <h2>Technical Lead, Reliability Engineering</h2>
-            <p><b>Company: </b><i>HubSpot</i></p>
-            <p><b>Location: </b><i>Cambridge, MA</i></p>
-            <p><b>Technologies: </b><i>java, python, amazon-web-services, web-services</i></p>
-            <p><b>Publication Date: </b><i>9d ago</i></p>
-            <p><b>Other features: </b><i>$150k–200k, Equity, Remote, Paid relocation</i></p>
-            <br><hr><br>
-            <h4>Description</h4>
-            <h2>About this job</h2>
-<p><span>Compensation: <strong>$150k - 200k | Equity</strong></span><br/><span>Location options: <strong>Remote, Paid relocation</strong></span><br/><span>Job type: <strong>Full-time</strong></span><br/><span>Experience level: <strong>Senior, Lead, Manager</strong></span><br/><span>Industry: <strong>B2B Sales, Cloud Services, Marketing Software</strong></span><br/><span>Company size: <strong>1k–5k people</strong></span><br/><span>Company type: <strong>Public</strong></span><br/></p><br/><br/><h2>Technologies</h2> <p>java, python, amazon-web-services, web-services</p> <br/><br/><h2>Job description</h2> <p><strong><strong>About the team</strong></strong></p>
-<p>The HubSpot Product team is made up of over 700 engineers, designers, product managers, and researchers. We&rsquo;re passionate about building tools that help small and medium-sized businesses market, sell, and serve their customers &mdash; and ultimately, grow better.</p>
-<p>Those tools end up in the HubSpot application platform, which itself is made up of thousands of services, workers, and jobs spanning over 170 teams and thousands of repos. Our teams work autonomously to deploy these systems across a common infrastructure, up to 3,000 times a day. As we&rsquo;ve grown to serve over 75,000 customers in 100 countries, reliability and stability have become just as important as speed and time to market. And as we&rsquo;ve opened up our APIs, our product has moved to the core of many of our customers&rsquo; and partners&rsquo; businesses.</p>
-<p>In 2019, we built an SRE team to help our product teams focus on delivering highly available and dependable products. This team is off to a great start: evangelizing, building tools, and embedding onto product teams. We are looking to grow this team by hiring engineers with an interest in reliability and scale. This is an opportunity to work on hard problems across a variety of domains with an experienced team of software engineers.</p>
-<p><strong><strong>What you&rsquo;ll do</strong></strong></p>
-<ul>
-<li>Help product and infrastructure teams hold retroactive root cause analysis meetings, focusing on identifying remediations using a blameless process similar to the 5 whys methodology</li>
-<li>Embed on product and infrastructure teams directly to build more reliable, scalable software</li>
-<li>Conceive, design, and build infrastructure tooling that improves reliability across the entire product surface area, dealing with massive distributed scale</li>
-<li>Evangelize best practices around reliability engineering</li>
-<li>Proactively identify risks and advocate for engineering process, tooling, or work streams that reduce that risk in a customer centric way</li>
-</ul>
-<p><strong>What we&rsquo;re looking for</strong></p>
-<ul>
-<li>Experience designing and operating distributed systems at scale</li>
-<li>Experience with improving reliability through better automated systems, configuration, chaos testing, and process improvement</li>
-<li>Experience working collaboratively with other engineering teams</li>
-<li>Interest or experience implementing and iterating on process to improve outcomes with minimal disruption to team culture</li>
-<li>Interest or experience working across multiple stakeholders to drive effective change</li>
-</ul> <br/><br/>
-        </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/448515/technical-lead-reliability-engineering-hubspot</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Data Engineer</title><link>https://stackoverflow.com/jobs/473483/data-engineer-academic-analytics</link><description>$80k–90k, Remote - python, user-experience, sql-server, c#, beautifulsoup</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/430168/growth-engineer-medaltv</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Data Engineer</title><link>https://stackoverflow.com/jobs/473483/data-engineer-academic-analytics</link><description>$80k–90k, Remote - python, user-experience, sql-server, c#, beautifulsoup</description><content:encoded><![CDATA[        <div>
             <h2>Data Engineer</h2>
             <p><b>Company: </b><i>Academic Analytics</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2821,7 +2821,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Willing to engage in modest manual data editing when appropriate</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/473483/data-engineer-academic-analytics</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>AWS Cloud Consultant</title><link>https://stackoverflow.com/jobs/429899/aws-cloud-consultant-mphasis-stelligent</link><description>Easy apply, $135k–140k, Remote - amazon-web-services, cloud, devops, python, kubernetes</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/473483/data-engineer-academic-analytics</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>AWS Cloud Consultant</title><link>https://stackoverflow.com/jobs/429899/aws-cloud-consultant-mphasis-stelligent</link><description>Easy apply, $135k–140k, Remote - amazon-web-services, cloud, devops, python, kubernetes</description><content:encoded><![CDATA[        <div>
             <h2>AWS Cloud Consultant</h2>
             <p><b>Company: </b><i>Mphasis-Stelligent</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2837,7 +2837,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>-FTE only -</p>
 <p><strong><u>&ldquo;Must have the ability to work in the US without current/future need for Sponsorship&rdquo;</u></strong></p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/429899/aws-cloud-consultant-mphasis-stelligent</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Lead iOS Engineer</title><link>https://stackoverflow.com/jobs/465696/lead-ios-engineer-grid</link><description>Easy apply, $140k–170k, Equity, Remote - ios, swift, google-cloud-firestore</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/429899/aws-cloud-consultant-mphasis-stelligent</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Lead iOS Engineer</title><link>https://stackoverflow.com/jobs/465696/lead-ios-engineer-grid</link><description>Easy apply, $140k–170k, Equity, Remote - ios, swift, google-cloud-firestore</description><content:encoded><![CDATA[        <div>
             <h2>Lead iOS Engineer</h2>
             <p><b>Company: </b><i>Grid</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2890,7 +2890,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>The ability to recognize the right tool for the right situation/problem</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/465696/lead-ios-engineer-grid</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Business Analytics Manager (EMEA)</title><link>https://stackoverflow.com/jobs/481726/senior-business-analytics-manager-emea-hotjar</link><description>€95k–120k, Remote - sql, etl, python, apache-storm, tableau-api</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/465696/lead-ios-engineer-grid</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Business Analytics Manager (EMEA)</title><link>https://stackoverflow.com/jobs/481726/senior-business-analytics-manager-emea-hotjar</link><description>€95k–120k, Remote - sql, etl, python, apache-storm, tableau-api</description><content:encoded><![CDATA[        <div>
             <h2>Senior Business Analytics Manager (EMEA)</h2>
             <p><b>Company: </b><i>Hotjar</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2938,7 +2938,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p>The compensation range for this role is&nbsp;<strong>&euro;95,000 to &euro;120,000</strong>&nbsp;annually. This was established after performing market research and is aligned with our approach to compensation. We encourage all candidates to read our&nbsp;<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/269942975/Recruitment+FAQs#What-is-Hotjar's-approach-to-Compensation%3F" rel="nofollow">Recruitment FAQs</a>&nbsp;to further understand our approach to compensation and how we structure our contracts.</p>
 <p>In addition to the monetary compensation, we also provide all team members with an assortment of unique and popular<a href="https://hotjar.atlassian.net/wiki/spaces/REC/pages/158105691/Our+Perks" rel="nofollow">&nbsp;perks</a>.</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481726/senior-business-analytics-manager-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Data Engineer</title><link>https://stackoverflow.com/jobs/458245/data-engineer-strongdm-inc</link><description>$90k–140k, Equity, Remote - sql, python, r, jupyter-notebook, amazon-s3</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/481726/senior-business-analytics-manager-emea-hotjar</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Data Engineer</title><link>https://stackoverflow.com/jobs/458245/data-engineer-strongdm-inc</link><description>$90k–140k, Equity, Remote - sql, python, r, jupyter-notebook, amazon-s3</description><content:encoded><![CDATA[        <div>
             <h2>Data Engineer</h2>
             <p><b>Company: </b><i>StrongDM, Inc.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -2976,7 +2976,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>Equity in a fast-growing startup</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/458245/data-engineer-strongdm-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>GLSL / Metal Shading Language developer</title><link>https://stackoverflow.com/jobs/438408/glsl-metal-shading-language-developer-retrica-inc</link><description>Easy apply, High response rate, $12k–60k, Remote - glsl, metal, vulkan, opengl-es, image-processing</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/458245/data-engineer-strongdm-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>GLSL / Metal Shading Language developer</title><link>https://stackoverflow.com/jobs/438408/glsl-metal-shading-language-developer-retrica-inc</link><description>Easy apply, High response rate, $12k–60k, Remote - glsl, metal, vulkan, opengl-es, image-processing</description><content:encoded><![CDATA[        <div>
             <h2>GLSL / Metal Shading Language developer</h2>
             <p><b>Company: </b><i>Retrica, Inc.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -3008,7 +3008,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>experience with computer vision, image processing or game</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/438408/glsl-metal-shading-language-developer-retrica-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Data Engineer</title><link>https://stackoverflow.com/jobs/446573/senior-data-engineer-second-measure</link><description>$145k–175k, Equity, Remote - spark, hive, python, java, scala</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/438408/glsl-metal-shading-language-developer-retrica-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Data Engineer</title><link>https://stackoverflow.com/jobs/446573/senior-data-engineer-second-measure</link><description>$145k–175k, Equity, Remote - spark, hive, python, java, scala</description><content:encoded><![CDATA[        <div>
             <h2>Senior Data Engineer</h2>
             <p><b>Company: </b><i>Second Measure</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -3058,7 +3058,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <p><strong>*Note on remote ability:</strong></p>
 <p>We are all working from home at least through 2020 to keep our team safe and healthy. We hope to (at some point) to work from our San Mateo, CA HQ or NYC office in some capacity in 2021 and it would be great if you are based in the Bay Area or NYC. That said, we are open to remote on a permanent basis, granted you would need to be based in one of the following states: AL, CA, CO, IL, NJ, NY, or WA.&nbsp;</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/446573/senior-data-engineer-second-measure</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior iOS Mobile Engineer</title><link>https://stackoverflow.com/jobs/433775/senior-ios-mobile-engineer-passio-inc</link><description>Easy apply, $150k–200k, Remote - ios, objective-c, swift</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/446573/senior-data-engineer-second-measure</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior iOS Mobile Engineer</title><link>https://stackoverflow.com/jobs/433775/senior-ios-mobile-engineer-passio-inc</link><description>Easy apply, $150k–200k, Remote - ios, objective-c, swift</description><content:encoded><![CDATA[        <div>
             <h2>Senior iOS Mobile Engineer</h2>
             <p><b>Company: </b><i>Passio Inc.</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -3098,7 +3098,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>You want to see the results of your work impacting lives of over a billion people</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/433775/senior-ios-mobile-engineer-passio-inc</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Senior Data Engineer – ETL Pipelines - Python - Cybersecurity</title><link>https://stackoverflow.com/jobs/421770/senior-data-engineer-etl-pipelines-python-praetorian-cybersecurity</link><description>Easy apply, $150k–175k, Equity, Remote - python, etl, security, pyspark, machine-learning</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/433775/senior-ios-mobile-engineer-passio-inc</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Senior Data Engineer – ETL Pipelines - Python - Cybersecurity</title><link>https://stackoverflow.com/jobs/421770/senior-data-engineer-etl-pipelines-python-praetorian-cybersecurity</link><description>Easy apply, $150k–175k, Equity, Remote - python, etl, security, pyspark, machine-learning</description><content:encoded><![CDATA[        <div>
             <h2>Senior Data Engineer – ETL Pipelines - Python - Cybersecurity</h2>
             <p><b>Company: </b><i>Praetorian Cybersecurity -> Uplink Software Solutions</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -3183,7 +3183,7 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 <li>4% company 401K matching vested immediately&nbsp;</li>
 </ul> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/421770/senior-data-engineer-etl-pipelines-python-praetorian-cybersecurity</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item><item><title>Sr. Data Engineer</title><link>https://stackoverflow.com/jobs/415728/sr-data-engineer-quadpay</link><description>$140k–175k, Equity, Remote - etl, python, sql, sysadmin</description><content:encoded><![CDATA[        <div>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/421770/senior-data-engineer-etl-pipelines-python-praetorian-cybersecurity</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item><item><title>Sr. Data Engineer</title><link>https://stackoverflow.com/jobs/415728/sr-data-engineer-quadpay</link><description>$140k–175k, Equity, Remote - etl, python, sql, sysadmin</description><content:encoded><![CDATA[        <div>
             <h2>Sr. Data Engineer</h2>
             <p><b>Company: </b><i>Quadpay</i></p>
             <p><b>Location: </b><i>No office location</i></p>
@@ -3235,4 +3235,4 @@ We&rsquo;re a discovery-driven delivery team. We make bets, accept that some wil
 </ul>
 <p>Technology is changing the way people interact with the world and we&rsquo;re bringing that revolution to the way people shop and transact. We allow shoppers to buy anywhere, at anytime - and pay in 4 interest-free, automatic installments over 6 weeks. You get the product right away and QuadPay will pay the merchant upfront.&nbsp; We're looking for someone who can join our high-functioning team of passionate support professionals and we value a range of diverse backgrounds, experiences, and ideas. We pride ourselves on diversity and creating an inclusive workplace that provides equal opportunities to all persons regardless of age, race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military and/or veteran status, or any other protected classes. We're growing very quickly and always looking for talented people to join our team and help transform the way consumers shop and pay!</p> <br/><br/>
         </div>
-        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/415728/sr-data-engineer-quadpay</guid><pubDate>Thu, 21 Jan 2021 22:41:56 +0100</pubDate></item></channel></rss>
+        ]]></content:encoded><guid isPermaLink="true">https://stackoverflow.com/jobs/415728/sr-data-engineer-quadpay</guid><pubDate>Thu, 21 Jan 2021 22:51:15 +0100</pubDate></item></channel></rss>
