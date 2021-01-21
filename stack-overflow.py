@@ -9,7 +9,8 @@ import requests
 from feedgen.feed import FeedGenerator
 from bs4 import BeautifulSoup
 
-with Path('stack-overflow.json').open('r') as f:
+base_name = 'stack-overflow'
+with Path(f'{base_name}.json').open('r') as f:
     conf = json.loads(f.read())
 url = conf['url']
 
@@ -89,7 +90,7 @@ while non_paginated_results > 0:
         ][0]
         r = requests.get(next_link, allow_redirects=True)
         soup = BeautifulSoup(r.text, 'html.parser')
-rss_path = Path('rss-gen/stack-overflow-rss.xml')
+rss_path = Path(f'rss-gen/{base_name}-rss.xml')
 rss_path.parent.mkdir(exist_ok=True)
 rss_content = fg.rss_str(pretty=False)
 with rss_path.open('wb') as f:

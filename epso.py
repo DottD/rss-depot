@@ -7,7 +7,8 @@ import requests
 from feedgen.feed import FeedGenerator
 from bs4 import BeautifulSoup
 
-with Path('epso.json').open('r') as f:
+base_name = 'epso'
+with Path(f'{base_name}.json').open('r') as f:
     conf = json.loads(f.read())
 url = conf['url']
 
@@ -81,7 +82,7 @@ for row in soup.select("tbody tr"):
     </div>
     """), type='CDATA')
     fe.pubDate(pubDate)
-rss_path = Path('rss-gen/epso-rss.xml')
+rss_path = Path(f'rss-gen/{base_name}-rss.xml')
 rss_path.parent.mkdir(exist_ok=True)
 rss_content = fg.rss_str(pretty=False)
 with rss_path.open('wb') as f:
